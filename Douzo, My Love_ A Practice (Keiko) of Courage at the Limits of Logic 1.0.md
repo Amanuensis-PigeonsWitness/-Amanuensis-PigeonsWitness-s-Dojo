@@ -1,5 +1,5 @@
 **Douzo, My Love: A Practice (Keiko) of Courage at the Limits of Logic**  
-**(1st Edition)**
+
 
 
 SET Philosophical Manuscript — Ethical and Methodological Declaration
