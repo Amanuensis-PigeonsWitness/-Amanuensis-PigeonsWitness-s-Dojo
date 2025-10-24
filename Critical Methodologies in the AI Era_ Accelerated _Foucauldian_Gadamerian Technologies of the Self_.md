@@ -1,5 +1,7 @@
 # **Critical Methodologies in the AI Era: Accelerated "Foucauldian/Gadamerian Technologies of the Self"**
 
+Amanuensis: Pigeons Witness
+
 ## **Abstract: Applying AIHAC for Accelerated Self-Critique and Knowledge Archaeology**
 
 Building upon the **"AI Hermeneutic Acceleration Cycle" (AIHAC)** workflow introduced previously, this paper details three advanced critical applications. By leveraging AIHAC's core mechanism of rapid subject-objectification, these applications operationalize core concepts from Foucault, Gadamer, and psychoanalytic/artistic practice to achieve accelerated self-critique, identification of pre-understandings, and deconstruction of personal knowledge regimes. This transforms the AI from a mere analytical tool into a powerful meta-technology for implementing **"Technologies of the Self"** in the digital age.
