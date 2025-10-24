@@ -1,6 +1,6 @@
 **Douzo, My Love: A Practice (Keiko) of Courage at the Limits of Logic**  
 
-
+Amanuensis: Pigeons Witness
 
 SET Philosophical Manuscript — Ethical and Methodological Declaration
 
