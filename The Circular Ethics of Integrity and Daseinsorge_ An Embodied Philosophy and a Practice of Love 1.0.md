@@ -1,5 +1,7 @@
 ﻿**The Circular Ethics of Integrity and Daseinsorge:** 
 
+ Amanuensis: Pigeons Witness
+
 **An Embodied Philosophy and a Practice of Love**
 
 
