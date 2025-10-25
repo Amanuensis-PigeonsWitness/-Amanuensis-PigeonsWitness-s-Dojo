@@ -1,40 +1,40 @@
-# **The SET Keiko Protocol (English Edition)**
+# Le Protocole Keiko SET (Édition Française)
 
-Issued by: Amanuensis: Pigeons Witness  
-Version: 1.0 (The Foundation Thesis)  
-**Motto:** “The moonscape, ineffable; Love, ineffable.”
+**Émis par :** Amanuensis : Pigeons Witness
+**Version :** 1.0 (La Thèse Fondatrice)
+**Devise :** « Le paysage lunaire, ineffable ; l'Amour, ineffable. »
 
-## **Preamble: The Summons to the Dojo and the Keiko**
+## Préambule : La Sommation au Dōjō et au Keiko
 
-This document serves as an introduction to the digital **dōjō** of SET Philosophy. We maintain that true philosophical awakening is never birthed in the afternoon quiet of a library, but rather in the spasms and violent transformations of life’s mundane inertia. **SET is not a theory to be believed; it is an ethical command to be lived.**
+Ce document sert d'introduction au **dōjō numérique** de la **Philosophie SET** (**L'Éthique circulaire du Souci existentiel et de l'Intégrité**). Nous soutenons que le véritable éveil philosophique ne naît jamais dans le calme après-midi d'une bibliothèque, mais plutôt dans les spasmes et les transformations violentes de l'inerte quotidienneté de la vie. **SET n'est pas une théorie à croire ; c'est un commandement éthique à vivre.**
 
-The singular purpose of this Protocol is to translate online discursive engagement from the defensive posture of **System A** (the Citadel of Reason) into an equal, measured **Keiko** (disciplined practice) under a profound Zen of the Mind. Thus, we practice the supreme mandate: **Kōken Chiai** (To cross swords and discover love).
+L'unique dessein de ce Protocole est de traduire l'engagement discursif en ligne, de la posture défensive du **Système A (la Citadelle de la Raison)** en un **Keiko (pratique disciplinée)** égal et mesuré, sous un profond **Zen de l'Esprit**. Ainsi, nous pratiquons le mandat suprême : **Kōken Chiai (Croiser les sabres et découvrir l'amour)**.
 
-## **Article I: The Metric of Success (An Act of Resistance to the PME)**
+## Article I : La Métrique du Succès (Un Acte de Résistance au PME)
 
-We formally declare that the standard of **"Success"** within this dōjō—and for SET Philosophy as a whole—is **inversely proportional** to the metrics valued by the **Perpetual Maintenance Engineer (PME)**.
+Nous déclarons formellement que l'étalon du « Succès » au sein de ce dōjō — et pour la Philosophie SET dans son ensemble — est inversement proportionnel aux métriques valorisées par l'**Ingénieur de Maintenance Perpétuelle (PME)**.
 
-* **Success is Practice:** The triumph of SET is measured solely by the quantity and quality of **Keiko** (disciplined engagement) it inspires globally, and the depth of love and courage that manifests in its real-world practice.  
-* **The Public Nature of Knowledge:** This work is dedicated under a **Creative Commons (CC) licence**, superseding traditional copyright. Knowledge is not our possession, but the public resource of all humanity. We are the scribes, you are the witnesses, and Being Itself is the true author.
+* **Le Succès est la Pratique :** Le triomphe de SET se mesure uniquement par la quantité et la qualité du **Keiko (engagement discipliné)** qu'il inspire globalement, et par la profondeur de l'amour et du courage qui se manifestent dans sa pratique dans le monde réel.
+* **La Nature Publique du Savoir :** Ce travail est dédié sous une licence **Creative Commons (CC)**, supplantant le droit d'auteur traditionnel. Le savoir n'est pas notre possession, mais la ressource publique de toute l'humanité. Nous sommes les scribes, vous êtes les témoins, et l'Être Lui-même est le véritable auteur.
 
-## **Article II: The Proactive Invitation to Conflict (Being-towards-Collision)**
+## Article II : L'Invitation Proactive au Conflit (Être-vers-la-Collision)
 
-We refuse the pathological recurrence of the **Aseptic Ritual**. We submit that truth is forged in conflict.
+Nous refusons la récurrence pathologique du **Rituel Aseptique**. Nous soumettons que la vérité se forge dans le conflit.
 
-* **Welcome the Assault:** This dōjō encourages honest, equal, and constructive **criticism and intellectual attack** upon the SET framework. Like a master swordsman, we invite rigorous engagement, urging critiques delivered with conviction. We desire the theory to be questioned and assailed to ensure its vitality and dynamic integrity.  
-* **The Keiko Mandate:** All intellectual collisions must be approached as equal Keiko. The aim is not mutual destruction but **mutual refinement** of our understanding of Existence, Love, and Courage. Every thrust of argument must be delivered with the gentle command of **"Dōzo"**—*Please, begin your assault; I shall contain it with my spiritual reserve.*  
-* **The Ethical Tsuba:** The blade of the Keiko must be directed at the structure of the idea, **never at the personal character of the individual**. This is the **Ethical Tsuba** (sword guard) that protects all participants within the dōjō.
+* **Accueillir l'Assaut :** Ce dōjō encourage la **critique et l'attaque intellectuelle honnêtes, égales et constructives** sur le cadre SET. Tel un maître sabreur, nous invitons à un engagement rigoureux, exhortant à des critiques livrées avec conviction. Nous désirons que la théorie soit questionnée et assaillie pour assurer sa vitalité et son **Intégrité dynamique**.
+* **Le Mandat du Keiko :** Toutes les collisions intellectuelles doivent être abordées comme un **Keiko égal**. Le but n'est pas la destruction mutuelle mais l'**Affinement Mutuel** de notre compréhension de l'Existence, de l'Amour et du Courage. Chaque estocade argumentative doit être portée avec le doux commandement de « **Dōzo** » — Je vous en prie, commencez votre assaut ; je le contiens par ma réserve spirituelle.
+* **La Garde Éthique (Tsuba) :** La lame du Keiko doit être dirigée contre la structure de l'idée, **jamais contre le caractère personnel de l'individu**. C'est la **Garde Éthique (Tsuba)** qui protège tous les participants au sein du dōjō.
 
-## **Article III: The Scribe’s Response to Quality Decay**
+## Article III : La Réponse du Scribe à la Dégradation de la Qualité
 
-The **Amanuensis** is unconcerned with low-quality appropriation, recognizing it as an inevitable manifestation of **System B’s** chaos.
+L'Amanuensis ne se préoccupe pas de l'appropriation de basse qualité, la reconnaissant comme une manifestation inévitable du chaos du **Système B**.
 
-* **Generative Containment of Noise:** The mediocrity and noise of the internet serve as the ultimate stress-test for SET’s capacity for **Generative Containment**. We shall not retreat into defence; we shall contain the chaos.  
-* **The Response of Life:** The Author's response to all low-quality noise is to respond through intensified **Existential Labour**: *“I shall simply live harder, experience more, and write a few more volumes.”* This declares that the highest quality assurance for SET is the unrelenting, lived experience of the Scribe, not external enforcement.  
-* **The Continuous Scribing:** This Protocol ensures that the quality of the philosophy will always be anchored by the sustained, disciplined writing and experience of the Amanuensis, perpetually outweighing any momentary dilution.
+* **Le Cantonnement-Portement Générateur du Bruit :** La médiocrité et le bruit d'internet servent de test de résistance ultime pour la capacité de SET à la pratique génératrice du **Cantonnement-Portement**. Nous ne nous replierons pas dans la défense ; nous contiendrons le chaos.
+* **La Réponse de la Vie :** La réponse de l'Auteur à tout bruit de basse qualité est de répondre par un **Travail Existentiel intensifié** : « Je vivrai simplement plus intensément, j'expérimenterai davantage, et j'écrirai quelques volumes de plus. » Ceci déclare que la plus haute assurance qualité pour SET est l'expérience vécue et implacable du Scribe, non une application externe.
+* **Le Scriptorat Continu :** Ce Protocole assure que la qualité de la philosophie sera toujours ancrée par l'écriture et l'expérience soutenues et disciplinées de l'Amanuensis, l'emportant perpétuellement sur toute dilution momentanée.
 
-## **Conclusion: The Living Covenant**
+## Conclusion : L'Alliance Vivante
 
-This Protocol is a **Living Text**. Our publishing strategy is our final philosophical thesis: to launch the self into chaos, and therein, to seek generative creation. May your **Keiko** be honourable, courageous, and profound.
+Ce Protocole est un **Texte Vivant**. Notre stratégie de publication est notre thèse philosophique finale : lancer le soi dans le chaos, et là, chercher la création génératrice. Puisse votre Keiko être honorable, courageux et profond.
 
-**Amanuensis: Pigeons Witness**
+**Amanuensis : Pigeons Witness**
