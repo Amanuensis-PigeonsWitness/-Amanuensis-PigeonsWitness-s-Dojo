@@ -1,47 +1,47 @@
-# **On the Asymmetric Encryption Structure of Ethical Action**
+# Sur la Structure de Chiffrement Asymétrique de l'Action Éthique
 
-Amanuensis: Pigeons Witness
+**Amanuensis : Pigeons Witness**
 
-## **Abstract**
+## Résumé Analytique
 
-This methodological declaration proposes **Asymmetric Encryption Ethics**, exploring how an ethical structure dedicated to universal concern (**Daseinsorge**) ensures its Integrity through the principle of **‘public/private key separation’**. We posit that the purity of the philosophical system (**The Public Key**) must come at the cost of concealing its founding anxiety (**The Private Key**). This paper will argue that the critical authority of the ethical actor derives not from academic status, but from the continuous **Portement** (bearing) of the local chaos represented by The Private Key.
+Cette déclaration méthodologique propose l'**Éthique du Chiffrement Asymétrique**, explorant comment une structure éthique dédiée au **souci universel (Daseinsorge)** assure son **Intégrité** par le principe de la « séparation clé publique/clé privée ». Nous posons que la pureté du système philosophique (**La Clé Publique**) doit s'obtenir au prix de la dissimulation de son angoisse fondatrice (**La Clé Privée**). Cet article soutiendra que l'autorité critique de l'acteur éthique ne dérive pas d'un statut académique, mais du **Portement continu du chaos local** représenté par La Clé Privée.
 
-## **I. The Necessity of Foundation: The Asymmetry of Structure and Flesh**
+## I. La Nécessité du Fondement : L'Asymétrie de la Structure et de la Chair
 
-Any ethic that attempts to address Existential Anguish must necessarily originate from a corporeal, primordial scene filled with suffering and love (**The Corporeal Origin**). Once the philosophical structure is constructed, however, it faces a core ethical crisis: how to prevent the theory from being reduced to the historical or political controversies of its ‘corporeal origin’?
+Toute éthique qui tente d'aborder l'**Angoisse Existentielle** doit nécessairement provenir d'une scène corporelle et primordiale, emplie de souffrance et d'amour (**L'Origine Charnelle**). Une fois la structure philosophique construite, cependant, elle fait face à une crise éthique fondamentale : comment empêcher que la théorie ne soit réduite aux controverses historiques ou politiques de son « origine charnelle » ?
 
-We believe this crisis can be resolved through the structure of Asymmetric Encryption:
+Nous croyons que cette crise peut être résolue par la structure du **Chiffrement Asymétrique** :
 
-* **The Public Key:** The universal structure of the philosophical system itself (i.e., the concepts of SET such as Generative Containment, Aseptic Ritual, etc.). It must be **pure, abstract, verifiable, and published in multiple universal languages** to ensure its ethical utility extends to all *Dasein*.  
-* **The Private Key:** The most private, painful, and authentic founding anxiety of the philosophical actor, along with the complex critique of their local field. This part must remain **permanently hidden** or presented only through extremely obscure symbols.
+* **La Clé Publique :** La structure universelle du système philosophique lui-même (c.-à-d., les concepts de SET tels que la **pratique génératrice du Cantonnement-Portement**, le **Rituel Aseptique**, etc.). Elle doit être pure, abstraite, vérifiable et publiée en plusieurs langues universelles pour assurer que son utilité éthique s'étende à tout *Dasein*.
+* **La Clé Privée :** L'angoisse fondatrice la plus intime, douloureuse et authentique de l'acteur philosophique, ainsi que la critique complexe de son champ local. Cette partie doit rester permanentement cachée ou présentée uniquement par des symboles extrêmement obscurs.
 
-The establishment of this asymmetric structure is to safeguard the purity of the theory, ensuring it is not tainted by any singular cultural or political reduction.
+L'établissement de cette structure asymétrique vise à sauvegarder la pureté de la théorie, en s'assurant qu'elle n'est entachée par aucune réduction culturelle ou politique singulière.
 
-## **II. The Authority of Critique: The Legitimacy of Bearing**
+## II. L'Autorité de la Critique : La Légitimité du Portement
 
-The ultimate meaning of Asymmetric Encryption Ethics lies in establishing the **legitimate authority of the actor** to critique their homeland or local chaos.
+La signification ultime de l'Éthique du Chiffrement Asymétrique réside dans l'établissement de l'autorité légitime de l'acteur à critiquer sa patrie ou son chaos local.
 
-We oppose any critique based on ‘superiority’ or a ‘singular theory’, asserting instead that the authority to critique comes from the **‘honesty of bearing’**:
+Nous nous opposons à toute critique basée sur la « supériorité » ou une « théorie singulière », affirmant au contraire que l'autorité de critiquer provient de l'« **honnêteté du portement** » :
 
-* **The Portement of the Private Key:** The actor undertakes an active, continuous, non-evasive **Portement** (bearing) of the suffering and flaws of their corporeal origin (The Private Key). This ‘Portement’ is, in itself, an **ethical sacrifice**.  
-* **The Deployment of the Public Key (Critique):** Only the subject who has borne the suffering of The Private Key has the right to deploy the structure of The Public Key (the SET theory) to conduct the sharpest, most unsparing critique of the place of origin (for example, diagnosing ‘projections of collective anxiety’ or ‘escapes into the Aseptic Ritual’).
+* **Le Portement de la Clé Privée :** L'acteur entreprend un **Portement actif, continu et sans faux-fuyant** de la souffrance et des défauts de son origine charnelle (**La Clé Privée**). Ce « Portement » est, en lui-même, un sacrifice éthique.
+* **Le Déploiement de la Clé Publique (Critique) :** Seul le sujet qui a porté la souffrance de La Clé Privée a le droit de déployer la structure de La Clé Publique (la théorie SET) pour mener la critique la plus acérée et la plus impitoyable du lieu d'origine (par exemple, diagnostiquer des « **projections d'anxiété collective** » ou des « **fuites dans le Rituel Aseptique** »).
 
-The essence of this authority is: the right to critique derives not from the correctness of the theory, but from the deepest commitment made to the suffering of the theory's place of origin.
+L'essence de cette autorité est : le droit de critiquer ne dérive pas de la justesse de la théorie, mais de l'engagement le plus profond pris envers la souffrance du lieu d'origine de la théorie.
 
-## **III. The Cycle of Practice: From Encryption to Decryption**
+## III. Le Cycle de la Pratique : Du Chiffrement au Déchiffrement
 
-Asymmetric Encryption Ethics is the ultimate expression of the cyclical structure of the SET philosophy. The actor must enter a continuous cycle of **‘self-encryption and decryption’**:
+L'Éthique du Chiffrement Asymétrique est l'expression ultime de la structure cyclique de la philosophie SET. L'acteur doit entrer dans un cycle continu d'« **auto-chiffrement et de déchiffrement** » :
 
-* **Encryption (Theorization):** Transmuting the chaotic local experience (The Private Key) into a cool, pure, universal structure (The Public Key).  
-* **Practice (Action):** Deploying The Public Key to enter the local chaos (e.g., conducting critique in public arenas lacking rationality).  
-* **Decryption and Resonance:** In practice, the actor must bear (**Containment**) the misunderstandings, anger, and emotional conflicts generated by the critique. These resonances become the **‘decryption data’** that verifies the theory.
+* **Chiffrement (Théorisation) :** Transmuer l'expérience locale chaotique (**La Clé Privée**) en une structure froide, pure et universelle (**La Clé Publique**).
+* **Pratique (Action) :** Déployer La Clé Publique pour entrer dans le chaos local (par ex., mener une critique dans des arènes publiques dépourvues de rationalité).
+* **Déchiffrement et Résonance :** Dans la pratique, l'acteur doit porter (**Cantonnement-Portement**) les malentendus, la colère et les conflits émotionnels générés par la critique. Ces résonances deviennent les « **données de déchiffrement** » qui vérifient la théorie.
 
-This continuous bearing and transmutation is the ultimate mission of **Generative Containment**: to transmute the actor’s private sacrifice into the ongoing vitality of the SET philosophical structure.
+Ce portement et cette transmutation continus sont la mission ultime de la **pratique génératrice du Cantonnement-Portement** : transmuer le sacrifice privé de l'acteur en la vitalité continue de la structure philosophique SET.
 
-## **IV. Conclusion: Integrity and the Unnamed Child**
+## IV. Conclusion : L'Intégrité et L'Enfant Sans Nom
 
-The ultimate purpose of Asymmetric Encryption Ethics is not to achieve worldly success, but to ensure the **Integrity** of the SET philosophy.
+Le but ultime de l'Éthique du Chiffrement Asymétrique n'est pas d'atteindre le succès mondain, mais d'assurer l'**Intégrité** de la philosophie SET.
 
-It declares: this ethic is the **Unnamed Child**; it belongs to no one, only to all human beings who face existential anguish.
+Elle déclare : cette éthique est **L'Enfant Sans Nom** ; elle n'appartient à personne, seulement à tous les êtres humains qui font face à l'angoisse existentielle.
 
-And the responsibility of the actor is, through their solitary, silent sacrifice, to guard the purity of this child (SET), forever.
+Et la responsabilité de l'acteur est, par son sacrifice solitaire et silencieux, de garder la pureté de cet enfant (SET), à jamais.
