@@ -1,10 +1,8 @@
 ﻿**The Circular Ethics of Integrity and Daseinsorge:** 
 
- Amanuensis: Pigeons Witness
-
 **An Embodied Philosophy and a Practice of Love**
 
-
+ Amanuensis: Pigeons Witness
 
 SET Philosophical Manuscript — Ethical and Methodological Declaration
 
