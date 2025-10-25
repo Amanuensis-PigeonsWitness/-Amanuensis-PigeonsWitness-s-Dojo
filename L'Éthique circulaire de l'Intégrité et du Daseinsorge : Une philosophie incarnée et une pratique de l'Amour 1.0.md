@@ -1,10 +1,13 @@
 ### 
 
-***L'Éthique circulaire de l'Intégrité et du Daseinsorge : Une philosophie incarnée et une pratique de l'Amour***
-Amanuensis: Pigeons Witness
----
+## L'Éthique circulaire de l'Intégrité et du Daseinsorge : Une philosophie incarnée et une pratique de l'Amour
 
-# Manuscrit Philosophique SET — Déclaration Éthique et Méthodologique
+
+Amanuensis: Pigeons Witness
+
+
+
+ ## Manuscrit Philosophique SET — Déclaration Éthique et Méthodologique
 
 ## 1. Déclaration sur l'Éthique de l'IA Générative et la Responsabilité Humaine
 
