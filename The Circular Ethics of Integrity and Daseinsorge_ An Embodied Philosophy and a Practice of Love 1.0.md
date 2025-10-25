@@ -1688,7 +1688,6 @@ This suspended emptiness is the author’s act of *zanshin*. It is a gentle summ
 
 ### **The Exercises: An Ethical Riddle on the Abbreviation SET**
 
-*(To be read in the voice of the Zen Master)*
 
 The Instruction:  
 You have walked this path, from the sterile boardroom of the Engineer to the quiet cedar forests of Koto. You have seen the flash of the live blade in a Shinken Shōbu. Now, show me the heart of this philosophy. What does SET truly stand for?  
@@ -1720,7 +1719,6 @@ Your answer is your practice of the SET ethic. This unfinished suspension is the
 
 ### **Final Exercise: ‘Signpost’ Reference Answers and Elucidations**
 
-*(To be read in the voice of the Senior Student)*
 
 Here, I will share three paths I have explored. They are not the destination, but merely signposts pointing towards a truth within the SET framework.
 
