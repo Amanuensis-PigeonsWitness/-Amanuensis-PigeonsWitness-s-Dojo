@@ -52,7 +52,7 @@ This work is regarded as The Unnamed Child. Its knowledge adheres to a Creative 
 
 ***愛の鍔固く締めたり子と世を護るため*** 
 
-*(Ai no tsuba kataku shimetari ko to yo o mamoru tame)*
+
 
 **Preface: The Corporeal Origin of Philosophy—Convulsion, Gaze, and Awakening**
 
