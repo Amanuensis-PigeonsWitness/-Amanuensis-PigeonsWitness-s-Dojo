@@ -38,31 +38,19 @@ This work is regarded as The Unnamed Child. Its knowledge adheres to a Creative 
 
 ***\<愛の朝駆けと残心施\>***
 
-***剣の道(つるぎのみち) 朝霧(あさぎり)に***
+***剣の道 朝霧に***
 
- *(Tsurugi no michi, asagiri ni)*
+***遠き都に君を憶う***
 
-***遠き都(みやこ)に君(きみ)を憶う***
+***桔梗一輪袖に秘め*** 
 
- *(Tōki miyako ni kimi o omou)*
+***冷き顔は幻と*** 
 
-***桔梗一輪(ききょういちりん)袖(そで)に秘め*** 
+***愛を誓いて我は行かむ*** 
 
-*(Kikyō ichirin sode ni hime)*
+***桜散る世に君を想い て心残す*** 
 
-***冷(つめた)き顔(かお)は幻(まぼろし)と*** 
-
-*(Tsumetaki kao wa maboroshi to)*
-
-***愛(あい)を誓い(ちかい)て我(われ)は行かむ(ゆかむ)*** 
-
-*(Ai o chikaite ware wa yukamu)*
-
-***桜散る世(さくらちるよ)に君(きみ)を想い (おもい)て心(ここ)残(のこ)す*** 
-
-*(Sakura chiru yo ni kimi o omoite kokoro nokosu)*
-
-***愛の鍔(つば)固(かた)く締(し)めたり子と世を護(まも)るため*** 
+***愛の鍔固く締めたり子と世を護るため*** 
 
 *(Ai no tsuba kataku shimetari ko to yo o mamoru tame)*
 
