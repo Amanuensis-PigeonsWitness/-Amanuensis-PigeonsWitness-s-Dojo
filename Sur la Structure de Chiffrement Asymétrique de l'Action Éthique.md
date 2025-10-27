@@ -1,6 +1,6 @@
 # Sur la Structure de Chiffrement Asymétrique de l'Action Éthique
 
-**Amanuensis : Pigeons Witness**Statut social
+**Amanuensis : Pigeons Witness**
 
 ## Résumé Analytique
 
