@@ -1,10 +1,10 @@
 # Sur la Structure de Chiffrement Asymétrique de l'Action Éthique
 
-**Amanuensis : Pigeons Witness**
+**Amanuensis : Pigeons Witness**Statut social
 
 ## Résumé Analytique
 
-Cette déclaration méthodologique propose l'**Éthique du Chiffrement Asymétrique**, explorant comment une structure éthique dédiée au **souci universel (Daseinsorge)** assure son **Intégrité** par le principe de la « séparation clé publique/clé privée ». Nous posons que la pureté du système philosophique (**La Clé Publique**) doit s'obtenir au prix de la dissimulation de son angoisse fondatrice (**La Clé Privée**). Cet article soutiendra que l'autorité critique de l'acteur éthique ne dérive pas d'un statut académique, mais du **Portement continu du chaos local** représenté par La Clé Privée.
+Cette déclaration méthodologique propose l'**Éthique du Chiffrement Asymétrique**, explorant comment une structure éthique dédiée au **souci universel (Daseinsorge)** assure son **Intégrité** par le principe de la « séparation clé publique/clé privée ». Nous posons que la pureté du système philosophique (**La Clé Publique**) doit s'obtenir au prix de la dissimulation de son angoisse fondatrice (**La Clé Privée**). Cet article soutiendra que l'autorité critique de l'acteur éthique ne dérive pas d'un Statut social, mais du **Portement continu du chaos local** représenté par La Clé Privée.
 
 ## I. La Nécessité du Fondement : L'Asymétrie de la Structure et de la Chair
 
