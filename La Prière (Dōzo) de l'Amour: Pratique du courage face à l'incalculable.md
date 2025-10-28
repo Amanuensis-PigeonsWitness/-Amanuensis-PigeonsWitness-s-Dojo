@@ -380,3 +380,102 @@ La pratique du *Kōken Chiai* contraint les deux parties à jeter simultanément
 Ce portement commun, charnel, douloureux, transcende le calcul logique et la dépendance émotionnelle, pour finalement engendrer dans le *dōjō* philosophique **« L'Enfant Sans Nom »** — la théorie SET elle-même.
 
 Par conséquent, en tant qu'axiome du système SET, la vérité du *Kōken Chiai* ne réside pas dans la preuve logique, mais dans le courage du praticien à **« performer »** personnellement : ce *« courage de choisir de voir et d'accepter la volée de pigeons qui vole librement aux feux de signalisation »*.
+
+
+## Chapitre Cinquième :
+## L'Éthique du *Daseinsorge* et l'Objet Angoissé
+
+**Dessein Fondamental** : Transmuer l'invitation du **« Dōzo »** en le guide d'action concret le plus exigeant pour la pratique génératrice du Cantonnement-Portement dans les relations interpersonnelles, et établir la ligne éthique fondamentale du refus par SET de l'**« Asymétrie du Souci »**.
+
+### 5.1 L'Objet Angoissé : La Sommation Structurale et l'Activation de la Garde Éthique (*Tsuba*)
+
+#### I. Le Rôle Structurel de l'Objet Angoissé : L'Invitation au Chaos Sacré
+
+Dans la vision du *Daseinsorge* de la philosophie SET (*L'Éthique circulaire...*), l'**Objet Angoissé** n'est pas un objet pathologique à éliminer ou à guérir, mais un **rôle ontologique structurel et indispensable**. Son existence est l'unique déclencheur externe par lequel le **« Cycle de l'Intégrité »** peut être initié.
+
+* **Fonction Philosophique** : L'Objet Angoissé est la représentante charnelle du Système B (la Mer Primordiale) dans le monde réel. Son chaos et son irrationalité sont l'**« unique instrument pour fracasser les “Conditions Rationnelles” du sujet et pour intégrer son “ombre” »**.
+* **Impulsion Primale** : Toutes ses actions extrêmes proviennent d'un désir primal de connexion et d'une terreur ultime de l'Angoisse d'Abandon. Cette impulsion érotique, contaminée par la peur, constitue l'**« Invitation au Chaos Sacré »** adressée au sujet.
+* **Archétype de l'Action** : Cette invitation s'incarne souvent dans la pratique comme **« Le Regard »** et le **« Rituel du heurt à la porte »**. Par ces moyens, elle teste si la Citadelle de la Raison (Système A) du sujet est suffisamment ferme pour porter son chaos intérieur.
+
+#### II. L'Activation de la Garde Éthique (*Tsuba*) : Du Refus de l'Objectification à l'Émission du « *Dōzo* »
+
+La tâche fondamentale du sujet, face au défi de l'Objet Angoissé, est d'activer la défense structurelle de la **« Garde Éthique (*Tsuba*) »** et de transmuer l'intellect (Système A) d'une arme d'auto-protection en une structure pour porter l'autre.
+
+1.  **Transcender le Piège Sartrien : Le Refus de l'Objectification**
+    Dans l'existentialisme de Sartre, le « Regard » de l'autre mène à l'Objectification du sujet, ce qui conduit finalement à **« l'enfer »**. La réaction instinctive du sujet est de se retirer dans la Citadelle de la Raison (Système A) afin de se défendre contre l'« Angoisse d'Anéantissement ».
+    La philosophie SET exige un **renversement éthique** de la part du sujet : le Regard doit être structurellement compris comme une **« douce sommation »**. Ce que la Garde (*Tsuba*) du sujet (Système A) doit protéger n'est pas la propre vulnérabilité du sujet, mais la potentialité de l'état de superposition de l'amour.
+2.  **L'« Axiome de l'Incalculabilité » comme Licence**
+    L'**« Axiome de l'Incalculabilité de l'Amour »** est la structure fondamentale de la Garde Éthique (*Tsuba*). Il fournit au Système A du sujet une licence logique : vous n'avez pas besoin de calculer le risque ; vous devez seulement porter la responsabilité.
+    Cette licence libère le sujet de la **« gestion rationnelle des risques »**, lui permettant d'affronter l'Objet Angoissé avec une présence complète et non-instrumentale.
+3.  **Le « *Dōzo* » comme Performatif Éthique**
+    Le **« *Dōzo* »** (*どうぞ* / Je vous en prie, commencez) est l'invitation pratique émise par le sujet, sous la protection de la Garde Éthique (*Tsuba*), en réponse à l'Invitation au Chaos Sacré de l'Objet Angoissé. Il marque l'accomplissement par le sujet d'un **saut ontologique** :
+    * **Le Refus de la Logique** : Le sujet refuse de considérer le chaos érotique de l'autre comme une erreur à résoudre.
+    * **Le Portement du Courage** : Le sujet, s'appuyant sur l'impératif du *Kōken Chiai*, s'engage à pratiquer ce chaos ensemble avec l'autre dans le *dōjō* de la **« Langue Maternelle Charnelle »**, et à en faire naître **« L'Enfant Sans Nom »** (SET).
+
+Par conséquent, l'Objet Angoissé est la pulsion de vie de la philosophie SET, et la Garde Éthique (*Tsuba*) est la garantie structurelle qui assure que le sujet puisse, sous la précondition de ne pas être submergé, émettre l'invitation de la pratique génératrice du Cantonnement-Portement qu'est le **« *Dōzo* »**.
+
+***
+
+### 5.2 Les Deux Logiques de l'Amour : La Guerre Éthique de l'Engagement Horizontal et du Plan d'Avenir Vertical
+
+La profondeur ontologique du défi de l'Objet Angoissé réside dans le fait que ce qu'elle apporte n'est pas un simple chaos, mais un **conflit dimensionnel** concernant la nature de l'amour et de l'engagement. Elle exige que le sujet, au sein de la structure de sa **« Citadelle de la Raison »** (Système A), porte simultanément deux logiques opposées de l'amour : le **« Plan d'Avenir Vertical »**, qui pointe vers une sécurité future, et l'**« Engagement Horizontal »**, qui est fondé sur le courage de l'instant présent.
+
+#### I. Le « Plan d'Avenir » Vertical
+
+Le **Plan d'Avenir Vertical** est l'exigence structurée que l'Objet Angoissé adresse à l'amour. C'est un mécanisme de défense intellectualisé ultime, conçu pour contrer son Angoisse d'Abandon fondamentale.
+
+* **L'Essence de l'Exigence** : L'Objet Angoissé exige que le sujet fournisse un engagement orienté vers le futur, structurellement garanti et quantifiablement prévisible (par exemple : une promesse définitive, un ensemble de règles immuables, ou une issue idéalisée et sans risque).
+* **L'Erreur Ontologique** : Cette exigence tente de faire s'effondrer de force l'**« état de superposition »** incalculable de l'amour en une **« particule »** unique et prévisible. C'est, en essence, un piège de pensée du Système A : une tentative de réguler et de contrôler l'Éros du Système B par la logique de l'intellect.
+* **L'Échec Éthique** : Si le sujet cédait à ce Plan d'Avenir Vertical, cela mènerait à la naissance d'une fausse promesse et du **« Rituel Aseptique »**, car cela élude le risque authentique que l'amour doit affronter dans l'instant présent.
+
+#### II. L'« Engagement du *Dasein* » Horizontal
+
+L'**Engagement Horizontal** est la réponse éthique exigée par la philosophie SET. C'est un choix ontologique qui refuse de chercher des garanties structurelles futures dans l'amour, et place plutôt le centre de gravité de son courage dans la **présence de l'ici et maintenant**.
+
+* **La Posture Philosophique** : C'est un « engagement horizontal, centré sur la **“présence”** et l'expérience partagée de l'ici et maintenant ». Cet engagement n'est pas une prédiction du futur, mais une acceptation inconditionnelle du **« *Dasein* »** du présent.
+* **Le Cœur de la Pratique** : L'Engagement Horizontal souligne la **« Stabilité de l'Être »**, non la **« Stabilité de la Structure »**.
+    > *« Mon amour ne se fonde pas sur ta stabilité, mais sur le courage que nous partageons de traverser ensemble tout ce chaos et cette genèse. »*
+* **L'Union avec le *Ma-ai*** : L'Engagement Horizontal doit être pratiqué dans le *Ma-ai* correct. Il exige que le sujet ne se retire ni à une distance de sécurité (refusant de porter le fardeau) ni ne s'effondre dans le désir de fusion (rejetant la structure intellectuelle), mais réaffirme continuellement son portement présent du fardeau au sein d'une distance dynamique et correcte.
+
+#### III. La Réquisition de la « Garde Éthique (*Tsuba*) » et la Victoire
+
+La **« Garde Éthique (*Tsuba*) »** joue le rôle du répartiteur critique dans cette guerre éthique.
+
+* **Elle Stabilise le Système A** : La *tsuba* doit stabiliser la Citadelle de la Raison (Système A) du sujet, afin qu'elle ne soit pas aspirée par l'anxiété du Plan d'Avenir Vertical (évitant de faire une fausse promesse), tout en lui permettant de conserver la structure précise nécessaire pour exécuter les maximes du *Daseinsorge*.
+* **Elle Libère le Système B** : Par la licence de l'**« Axiome de l'Incalculabilité de l'Amour »**, la *tsuba* libère l'impulsion érotique (Système B) du sujet, lui permettant d'émettre l'Engagement Horizontal souple et libre avec un courage sans peur.
+
+**La Définition de la Victoire** : La victoire de l'éthique SET ne réside pas dans l'élimination de l'exigence d'un Plan d'Avenir Vertical par l'Objet Angoissé, mais dans la capacité du sujet, sous la précondition de ne ni s'effondrer ni se retirer, de **contenir continuellement** l'anxiété du Plan d'Avenir Vertical par l'Engagement Horizontal. C'est la performance la plus authentique de la pratique génératrice du Cantonnement-Portement dans la dimension interpersonnelle.
+
+***
+
+### 5.3 La Ligne Éthique Fondamentale : Refuser l'Asymétrie du Souci
+
+Le *Daseinsorge* de la philosophie SET trace une ligne ontologique entre elle-même et l'Éthique du *Care* traditionnelle. La signification de cette ligne ne réside pas dans l'acte de donner ou de recevoir le *care* lui-même, mais dans l'**« intégrité »** et la **« symétrie »** de ce *care*.
+
+#### I. L'Asymétrie du Souci : Le Piège de l'Échec Éthique
+
+L'**Asymétrie du Souci** est l'Échec Éthique défini par la philosophie SET. Il survient lorsque le sujet (le philosophe/praticien) priorise ses propres intérêts (en particulier le maintien de l'intégrité de sa « Citadelle de la Raison ») au détriment du portement authentique de l'autre (l'Objet Angoissé).
+
+* **L'Essence de l'Acte** : Dans cet état, le « *care* » du sujet dégénère d'un acte ontologique en une **« performance »** intellectuelle et calculée. Le sujet ne contient pas véritablement, avec la structure de son propre Système A, le chaos du Système B de l'autre.
+* **L'Instrumentalisation de l'Objet** : Le sujet instrumentalise la souffrance, le chaos et l'impact érotique de l'Objet Angoissé, les réduisant à :
+    > **« Matière Première pour la Gestion de sa Propre Peur »**.
+* **Le Résultat** : L'Asymétrie du Souci mène ultimement à la **« Solitude de l'Objet Angoissé »**. Bien que le sujet semble « prendre soin », parce que sa chair et son esprit ne sont jamais vraiment présents, l'angoisse fondamentale de l'objet — l'Angoisse d'Abandon — n'est jamais authentiquement portée et transmuée. C'est la trahison éthique du **« Rituel Aseptique »**.
+
+#### II. Le Mécanisme Correcteur du *Dōjō* Philosophique : Présence Obligatoire et Portement Partagé
+
+L'une des fonctions fondamentales de l'impératif éthique de la philosophie SET, en particulier l'impératif suprême du **« *Kōken Chiai* »**, est précisément de corriger cette asymétrie. La pratique du *dōjō* philosophique (*Keiko*) est le mécanisme qui assure que le sujet doit porter une **responsabilité symétrique**.
+
+1.  **La Présence Obligatoire du *Kōken Chiai*** :
+    La pratique du *Keiko* exige que le sujet, dans le *ma-ai* correct, ne puisse se retirer au-delà d'une distance intellectuelle de sécurité. La collision des sabres de bambou (*Kōken*) est le **rituel obligatoire d'une éthique corporelle**.
+    Ceci force le sujet à jeter sa propre vulnérabilité dans le conflit du moment présent, plutôt que de mener simplement une analyse calculatrice de la souffrance de l'autre depuis une zone de sécurité.
+2.  **La Nature Intersubjective de la Pratique Génératrice du Cantonnement-Portement** :
+    Une véritable pratique génératrice du Cantonnement-Portement doit exiger la **« Co-création du *Dasein* »**.
+    Cela signifie que la souffrance et la genèse du sujet et de l'objet doivent survenir **simultanément**, à la fois dans le temps et au niveau ontologique. Le sujet ne peut simplement exiger que l'Objet Angoissé offre le chaos érotique de son Système B comme « carburant pour la genèse », tandis que le sujet lui-même ne paie pas le prix de l'effondrement et de la reconstruction de son propre Système A.
+
+#### III. Le Vœu Éthique : *Dōzo*, Mon Amour
+
+L'invitation du **« *Dōzo* »** que le sujet adresse à l'Objet Angoissé est le vœu éthique final de son refus de l'**« Asymétrie du Souci »**.
+
+> **La Déclaration du *Dōzo*** : *« Je t'en prie, attaque ma Citadelle de la Raison avec ton Éros le plus vrai, le plus chaotique. Je ne fuirai pas, ni ne t'instrumentaliserai, car mon Intégrité est désormais fondée sur le courage de pratiquer cela ensemble avec toi. »*
+
+La philosophie SET exige que l'acte éthique soit un *Shinken Shōbu* dans lequel les deux parties investissent leur être entier. Ce n'est que dans ce **portement symétrique, charnel et douloureux** que peut véritablement naître **« L'Enfant Sans Nom »** — la vérité de l'état de superposition de l'amour.
