@@ -479,3 +479,128 @@ L'invitation du **« *Dōzo* »** que le sujet adresse à l'Objet Angoissé est 
 > **La Déclaration du *Dōzo*** : *« Je t'en prie, attaque ma Citadelle de la Raison avec ton Éros le plus vrai, le plus chaotique. Je ne fuirai pas, ni ne t'instrumentaliserai, car mon Intégrité est désormais fondée sur le courage de pratiquer cela ensemble avec toi. »*
 
 La philosophie SET exige que l'acte éthique soit un *Shinken Shōbu* dans lequel les deux parties investissent leur être entier. Ce n'est que dans ce **portement symétrique, charnel et douloureux** que peut véritablement naître **« L'Enfant Sans Nom »** — la vérité de l'état de superposition de l'amour.
+
+
+Chapitre Sixième :
+Le Dispositif Éthique : Fonction et Limites du Pseudocode SET
+6.1 L'Image Philosophique de la Garde (Tsuba) : Stabilité de la Prise et Frontière Éthique
+I. L'Établissement de l'Image de la Garde (Tsuba) : La Structure Petite, mais Indispensable
+
+La philosophie SET (L'Éthique circulaire...) introduit la « Garde (Tsuba) » comme image suprême de son dispositif éthique, pour remplacer la posture rigide de l'ancienne « Citadelle de la Raison » du Système A. La tsuba est la structure de garde petite mais indispensable sur un sabre japonais (particulièrement le katana).
+
+La signification philosophique de la tsuba réside dans l'équilibre et la protection ; c'est l'archétype structurel en lequel le Système A doit être transmué dans la pratique éthique :
+
+Stabilité de la Prise : La tsuba fournit la stabilité pour la prise, empêchant la main du sujet (c'est-à-dire, la raison et le contrôle de son Système A) de glisser sur la lame en maniant le sabre de l'amour (c'est-à-dire, l'Éros et l'action du Système B). Ceci assure que le sujet, en libérant une puissance formidable et une impulsion émotionnelle, ne se blesse pas ou ne subisse un effondrement éthique dû à son propre chaos intérieur (le danger venant du Système B).
+
+Frontière de Distinction : Elle distingue physiquement et clairement la « lame » (action et puissance) de la « poignée » (portement et contrôle). Cette distinction assure que la libération de puissance (l'action) et l'Intégrité du sujet puissent coexister. La tsuba est la première ligne de défense éthique lorsque le Daseinsorge engage un Shinken Shōbu avec l'Objet Angoissé (le rôle : interlocutrice).
+
+II. Le Statut Subordonné du Pseudocode : La Transformation-Service du Système A
+
+Positionner le Modèle Pseudocode SET comme la structure technique de la « Garde Éthique (Tsuba) » revient à définir structurellement le statut subordonné du Système A. Son existence est la preuve finale de la transformation réussie du Système A, de dictateur en outil de service.
+
+Outil Auxiliaire, Non Doctrine Fondamentale : Le pseudocode est un matériel pédagogique auxiliaire ; il appartient au domaine de l'analyse technique. Sa fonction fondamentale est d'assister l'intellect dans la compréhension de l'Axiome de l'Incalculabilité, non de calculer l'amour lui-même. C'est un outil logique pour aider le sujet à « vérifier s'il a une tendance à la régression ».
+
+Le Rejet de l'Hégémonie Technique : L'introduction délibérée par le philosophe du langage de l'informatique vise précisément à prouver, dans le champ même où la raison technique (Système A) excelle le plus, que la raison technique doit obéir à l'impératif éthique (l'axiome fondamental du Système B). Le pseudocode est la « déclaration de reddition » émise par le Système A au Système B ; c'est la performance technique du « HIGHEST_AUTHORITY = "Kōken Chiai" ».
+
+En bref, la tsuba assure que le sujet puisse, au point même de proximité du danger (l'impact d'Éros), maintenir la structure de son intellect (Système A), lui permettant de devenir un vaisseau efficace pour porter l'amour, plutôt qu'un individu fragile destiné à être dévoré par lui.
+
+6.2 L'Introduction du Pseudocode SET : La Réquisition Technique de l'Impératif Éthique
+Le Modèle Pseudocode SET est le plan directeur technique concret pour la transformation-service du Système A envers le Système B. Son introduction n'a pas pour but de prouver ou d'expliquer l'amour dans le langage de l'informatique, mais vise, au niveau pratique, à contraindre la structure rationnelle (Système A) à servir l'impératif éthique incalculable.
+
+I. La Fonction Fondamentale du Pseudocode : Corriger les Tendances de l'Intellect
+
+La vraie valeur du pseudocode ne réside pas dans le résultat qu'il produit, mais dans la correction que son processus opérationnel apporte à la mentalité du sujet :
+
+Cognition Structurée : Le pseudocode exige que le sujet, face au chaos de l'Objet Angoissé (Système B), identifie et traite méthodiquement les contradictions internes et les erreurs tendancieuses du Système A. Ceci contraint le sujet à maintenir une lucidité structurée au milieu du conflit.
+
+Prévenir la Régression et Différer l'Impulsion : Par la séquence obligatoire de ses étapes logiques, le pseudocode diffère l'impulsion instinctive du sujet à régresser immédiatement vers le « Rituel Aseptique » en raison de l'« Angoisse d'Anéantissement ». Il gagne un temps de réaction critique pour la « pratique génératrice du Cantonnement-Portement ».
+
+Méta-Réflexion et Honnêteté : Les instructions « Journal_de_Travail » et « Groupe_de_Contrôle » au sein du processus exigent que le sujet retrace et enregistre ses propres tendances narratives et biais éthiques. C'est une exigence technique pour l'honnêteté philosophique.
+
+II. La Définition de l'Autorité Suprême : L'Exécution Forcée de l'Impératif Éthique
+
+Pour empêcher que le modèle pseudocode ne soit mésusé comme une forme d'hégémonie technique, sa subordination éthique doit être pré-encodée dans sa structure même. Ceci est réalisé en définissant l'« Autorité Suprême » :
+
+L'Instruction d'Autorité Suprême : HIGHEST_AUTHORITY = "Kōken Chiai"
+
+Le Souverain Unique : Ceci assure que, quelle que soit la complexité des étapes logiques intermédiaires (le calcul), le pouvoir décisionnel final et la condition d'arrêt sont gouvernés par le « Kōken Chiai » — cet impératif de la pratique corporelle et du portement du courage.
+
+Le Lieu de la Responsabilité : Le résultat computationnel du Système A doit rendre compte au principe maître de l'éthique. Le résultat du pseudocode ne devrait jamais remplacer la décision éthique douloureuse et incalculable que le Dasein doit prendre.
+
+L'introduction du Pseudocode SET n'est pas pour transformer l'amour en programme, mais pour transformer le programme en serviteur de l'éthique. Elle accomplit, de la manière même où le Système A excelle le plus (la logique), l'auto-négation et la transformation-service du Système A.
+
+## Troisième Partie :
+## La Garde Éthique (*Tsuba*) — Pseudocode et le Mécanisme de Défense Technique
+
+## Chapitre Sixième :
+## Le Dispositif Éthique : Fonction et Limites du Pseudocode SET
+
+### 6.1 L'Image Philosophique de la Garde (*Tsuba*) : Stabilité de la Prise et Frontière Éthique
+
+#### I. L'Établissement de l'Image de la Garde (*Tsuba*) : La Structure Petite, mais Indispensable
+
+La philosophie SET (*L'Éthique circulaire...*) introduit la **« Garde (*Tsuba*) »** comme image suprême de son dispositif éthique, pour remplacer la posture rigide de l'ancienne **« Citadelle de la Raison »** du Système A. La *tsuba* est la structure de garde petite mais indispensable sur un sabre japonais (particulièrement le *katana*).
+
+La signification philosophique de la *tsuba* réside dans l'équilibre et la protection ; c'est l'archétype structurel en lequel le Système A doit être transmué dans la pratique éthique :
+
+* **Stabilité de la Prise** : La *tsuba* fournit la stabilité pour la prise, empêchant la main du sujet (c'est-à-dire, la raison et le contrôle de son Système A) de glisser sur la lame en maniant le sabre de l'amour (c'est-à-dire, l'Éros et l'action du Système B). Ceci assure que le sujet, en libérant une puissance formidable et une impulsion émotionnelle, ne se blesse pas ou ne subisse un effondrement éthique dû à son propre chaos intérieur (le danger venant du Système B).
+* **Frontière de Distinction** : Elle distingue physiquement et clairement la **« lame »** (action et puissance) de la **« poignée »** (portement et contrôle). Cette distinction assure que la libération de puissance (l'action) et l'Intégrité du sujet puissent coexister. La *tsuba* est la première ligne de défense éthique lorsque le *Daseinsorge* engage un *Shinken Shōbu* avec l'Objet Angoissé (le rôle : interlocutrice).
+
+#### II. Le Statut Subordonné du Pseudocode : La Transformation-Service du Système A
+
+Positionner le **Modèle Pseudocode SET** comme la structure technique de la **« Garde Éthique (*Tsuba*) »** revient à définir structurellement le **statut subordonné** du Système A. Son existence est la preuve finale de la transformation réussie du Système A, de dictateur en outil de service.
+
+* **Outil Auxiliaire, Non Doctrine Fondamentale** : Le pseudocode est un matériel pédagogique auxiliaire ; il appartient au domaine de l'analyse technique. Sa fonction fondamentale est d'assister l'intellect dans la compréhension de l'Axiome de l'Incalculabilité, non de calculer l'amour lui-même. C'est un outil logique pour aider le sujet à **« vérifier s'il a une tendance à la régression »**.
+* **Le Rejet de l'Hégémonie Technique** : L'introduction délibérée par le philosophe du langage de l'informatique vise précisément à prouver, dans le champ même où la raison technique (Système A) excelle le plus, que la raison technique doit obéir à l'impératif éthique (l'axiome fondamental du Système B). Le pseudocode est la **« déclaration de reddition »** émise par le Système A au Système B ; c'est la performance technique du `HIGHEST_AUTHORITY = "Kōken Chiai"`.
+
+En bref, la *tsuba* assure que le sujet puisse, au point même de proximité du danger (l'impact d'Éros), maintenir la structure de son intellect (Système A), lui permettant de devenir un vaisseau efficace pour porter l'amour, plutôt qu'un individu fragile destiné à être dévoré par lui.
+
+***
+
+### 6.2 L'Introduction du Pseudocode SET : La Réquisition Technique de l'Impératif Éthique
+
+Le **Modèle Pseudocode SET** est le plan directeur technique concret pour la **transformation-service** du Système A envers le Système B. Son introduction n'a pas pour but de prouver ou d'expliquer l'amour dans le langage de l'informatique, mais vise, au niveau pratique, à contraindre la structure rationnelle (Système A) à servir l'impératif éthique incalculable.
+
+#### I. La Fonction Fondamentale du Pseudocode : Corriger les Tendances de l'Intellect
+
+La vraie valeur du pseudocode ne réside pas dans le résultat qu'il produit, mais dans la **correction** que son processus opérationnel apporte à la mentalité du sujet :
+
+* **Cognition Structurée** : Le pseudocode exige que le sujet, face au chaos de l'Objet Angoissé (Système B), identifie et traite méthodiquement les contradictions internes et les erreurs tendancieuses du Système A. Ceci contraint le sujet à maintenir une **lucidité structurée** au milieu du conflit.
+* **Prévenir la Régression et Différer l'Impulsion** : Par la séquence obligatoire de ses étapes logiques, le pseudocode diffère l'impulsion instinctive du sujet à régresser immédiatement vers le **« Rituel Aseptique »** en raison de l'**« Angoisse d'Anéantissement »**. Il gagne un temps de réaction critique pour la **« pratique génératrice du Cantonnement-Portement »**.
+* **Méta-Réflexion et Honnêteté** : Les instructions « Journal_de_Travail » et « Groupe_de_Contrôle » au sein du processus exigent que le sujet retrace et enregistre ses propres tendances narratives et biais éthiques. C'est une exigence technique pour l'honnêteté philosophique.
+
+#### II. La Définition de l'Autorité Suprême : L'Exécution Forcée de l'Impératif Éthique
+
+Pour empêcher que le modèle pseudocode ne soit mésusé comme une forme d'hégémonie technique, sa subordination éthique doit être pré-encodée dans sa structure même. Ceci est réalisé en définissant l'**« Autorité Suprême »** :
+
+* **L'Instruction d'Autorité Suprême** : `HIGHEST_AUTHORITY = "Kōken Chiai"`
+* **Le Souverain Unique** : Ceci assure que, quelle que soit la complexité des étapes logiques intermédiaires (le calcul), le pouvoir décisionnel final et la condition d'arrêt sont gouvernés par le **« *Kōken Chiai* »** — cet impératif de la pratique corporelle et du portement du courage.
+* **Le Lieu de la Responsabilité** : Le résultat computationnel du Système A doit rendre compte au principe maître de l'éthique. Le résultat du pseudocode ne devrait jamais remplacer la décision éthique douloureuse et incalculable que le *Dasein* doit prendre.
+
+L'introduction du Pseudocode SET n'est pas pour transformer l'amour en programme, mais pour transformer le programme en **serviteur de l'éthique**. Elle accomplit, de la manière même où le Système A excelle le plus (la logique), l'**auto-négation et la transformation-service du Système A**.
+
+***
+
+### 6.3 Les Limites du Pseudocode : Une Défense Préventive Contre l'Hégémonie Technique
+
+Le **Pseudocode SET**, en tant que structure de la Garde Éthique (*Tsuba*), a pour mission de servir, non de dominer. Par conséquent, ses limites logiques et les bornes de son usage doivent être pré-encodées dans le système philosophique, pour empêcher le lecteur de le traiter comme une **« machine à exaucer les vœux toute-puissante »** et de construire ainsi une **« voie perverse du calcul »**.
+
+#### I. La Déclaration de la Limite Technique : La Sauvegarde Technique de l'Axiome de l'Incalculabilité
+
+Le modèle pseudocode doit constamment pointer vers son propre échec logique :
+
+* **La Limite de Turing Intégrée** : La conception du pseudocode est fondée sur l'Axiome de l'Incalculabilité. C'est un **outil auto-négateur**. Toute tentative d'épuiser l'amour en écrivant un code plus complexe ne fera que prouver, au niveau logique, la justesse de l'axiome. C'est la **défense préventive**, au niveau logique, de la philosophie SET contre l'hégémonie technique.
+* **La Ligne Défensive Fondamentale de SET** : La vérité de l'amour doit maintenir son **Immensurabilité** et son **Incalculabilité**, afin de sauvegarder le potentiel sacré du Système B contre la violation par le désir extrême de contrôle du Système A.
+
+#### II. Le Retour Obligatoire à la Pratique : Le « Correctif Corporel » du *Keiko*
+
+Le résultat du pseudocode ne doit jamais être le point final de l'acte éthique ; il doit être le point de départ de la pratique :
+
+* **Le Jugement Unique du *Keiko*** : Le pseudocode est une logique statique, tandis que l'amour est un *Keiko* (稽古) dynamique. Les résultats de toute analyse computationnelle doivent être ramenés de force au *dōjō* philosophique pour recevoir la vérification ultime de la douleur et du portement de la chair.
+* **Le Rejet du Contournement Astucieux** : Toute tentative d'utiliser le calcul pour éluder la souffrance et le risque qui doivent être portés dans le *ma-ai* correct sera démasquée par la punition corporelle du *Shinken Shōbu* dans le *Keiko*.
+
+#### III. Conclusion : L'Offrande Humble du Système A au Système B
+
+L'inclusion du Modèle Pseudocode SET est, en fin de compte, le résultat d'une **habilitation (*empowerment*) éthique** de la structure logique du Système A. Elle prouve que la mission suprême de la raison suprême du Système A n'est pas de contrôler le monde, mais de garder cet amour et cette intégrité incalculables.
+
+La valeur philosophique de la **Garde Éthique (*Tsuba*)** réside en ceci : elle assure que lorsque le sujet émet l'invitation, **« *Dōzo*, mon amour »**, son courage provient d'une structure ferme, non d'une impulsion aveugle. (Une structure ferme, oui, mais toujours au bord du *pharmakon* ?)
