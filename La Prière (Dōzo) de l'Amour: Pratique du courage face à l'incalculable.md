@@ -1,6 +1,6 @@
 ### 
 
-##  La Prière (Douzo) de l'Amour: Pratique du courage face à l'incalculable  
+##  La Prière (Dōzo) de l'Amour: Pratique du courage face à l'incalculable  
 
 Amanuensis: Pigeons Witness
 
