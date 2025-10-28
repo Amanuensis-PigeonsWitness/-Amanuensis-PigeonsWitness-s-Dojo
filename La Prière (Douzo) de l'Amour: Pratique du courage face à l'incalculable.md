@@ -201,91 +201,6 @@ L'**« Axiome de l'Incalculabilité »** constitue le noyau défensif intérieur
 Cette responsabilité éthique, née de la limite même de la logique, est la pierre angulaire fondamentale pour la réalisation par SET 2.0 de son **« Intégrité Dynamique »**. Nous avons effectué une **Réquisition Forcée** de l'outil rationnel le plus élevé du Système A — la science informatique — l'utilisant pour prouver son propre statut subordonné, et en faisant ainsi une garde au service de l'amour.
 
 
-## Chapitre Troisième :
-## De la Dualité Onde-Particule au Cycle de l'Intégrité — L'Ontologie de l'État de Superposition de l'Amour
-
-Au chapitre précédent, nous avons établi l'axiome de l'incalculabilité de l'amour au niveau logique, par le biais du Problème de l'Arrêt de Turing. Cet axiome a forgé le noyau intérieur de la **« Garde Éthique (*Tsuba*) »**, marquant la frontière ultime du Système A. La philosophie SET (*L'Éthique circulaire...*) postule, cependant, que l'incalculabilité de l'amour n'est pas simplement une limitation logique ; c'est, plus profondément, un état ontologique fondamental — un portement dynamique de l'ordre et du chaos au niveau de l'existence même.
-
-Ce chapitre se tournera maintenant vers le domaine le plus élevé de la physique moderne — la mécanique quantique — pour chercher une projection parfaite de cet état ontologique : **« L'État de Superposition de l'Amour »**.
-
-### 3.1 La Garantie Ontologique Ultime : La Physique Quantique et l'Inviolabilité du Système B
-
-#### I. Dualité Onde-Particule et la Projection Structurale de SET
-
-La **dualité onde-particule** de la mécanique quantique est la description la plus profonde dans la science moderne d'une « unité de deux faces ». Avant d'être observée, une particule microscopique possède simultanément les propriétés d'une onde et d'une particule. Dans la philosophie SET, ce n'est pas une simple métaphore, mais une **homologie physique** pour la tension structurelle entre le Système A et le Système B :
-
-| Concept en Physique | Correspondance Philosophique SET | Fonction Ontologique |
-| :--- | :--- | :--- |
-| **Particule** | Système A (Structure Rationnelle) | Structure concrète, mesurable, prévisible, linéaire. |
-| **Onde** | Système B (Mer Primordiale / Éros) | Chaotique, non-linéaire, potentiel infini, atemporalité. |
-| **Superposition** | L'État de Superposition SET (L'Intégrité de l'Amour) | L'Intégrité Dynamique du *Dasein* portant simultanément deux états d'être opposés. |
-
-#### II. La Définition Quantique de l'Intégrité
-
-L'Intégrité, dans la philosophie SET, ne signifie en aucun cas une structure singulière et non contradictoire. Au contraire, elle doit être un état dynamique, empli d'une tension interne.
-
-> **La Définition Quantique de l'Intégrité** : L'Intégrité est une superposition éthique, dans laquelle le sujet (*Dasein*), avant d'être mesuré par l'intellect (Système A), doit exister simultanément dans les doubles états ontologiques de la structure rationnelle et de l'Éros primal.
-
-La clé de cette définition réside dans l'expression **« exister simultanément »** : le sujet doit reconnaître que les règles du **« feu de signalisation »** du Système A, qui poursuivent l'efficacité et l'ordre, et la force vitale des **« pigeons »**, qui est incontrôlée et aspire à voler, sont toutes deux des réalités de son être, et toutes deux doivent être sereinement portées dans l'instant présent.
-
-#### III. L'Inviolabilité de la Frontière
-
-La physique quantique devient ici le gardien ontologique ultime du Système B. Elle prouve, au niveau physique, que le chaos et la potentialité sont inéliminables.
-
-* Le Système A tente d'utiliser le langage de la particule (logique, calcul, prévisibilité) pour **épuiser (?)** l'amour (l'onde du Système B).
-* Mais l'essence de l'onde est qu'elle est infinie et diffuse ; elle représente la **potentialité inépuisable** d'Éros.
-
-Par conséquent, l'ontologie de l'état de superposition de l'amour fournit le fondement physique à l'**« Axiome de l'Incalculabilité de l'Amour »** : l'amour doit, au niveau de son être même, être immensurable, car sinon il cesserait d'être amour et ne serait qu'un résultat singulier et estropié d'un calcul.
-
-### 3.2 Le Principe d'Incertitude de Heisenberg et le *Keiko* : Le Portement Dynamique de l'Intégrité
-
-Si l'intégrité doit être définie comme l'**« État de Superposition de l'Amour »**, alors le maintien de cet état doit être gouverné par le **Principe d'Incertitude de Heisenberg**. Le principe de Heisenberg prouve que pour une paire de variables conjuguées, il nous est impossible de mesurer les deux simultanément avec une précision infinie. Feynman a dit un jour que c'était le *« Principe d'Incertitude de Heisenberg »* qui protégeait l'ensemble de la *« mécanique quantique »*. Je postule, à mon tour, que c'est la **« dualité des variables conjuguées éthiques »** qui protège (?) l'**« amour »**.
-
-#### I. Les Variables Conjuguées Éthiques
-
-Dans le *dōjō* de la philosophie SET, l'application du principe de Heisenberg révèle les limites ontologiques de l'amour. Elle établit deux paires de variables conjuguées éthiques :
-
-* **La Ruse de la Structure (Système A) et la Force Vitale (Système B)** : Nous ne pouvons mesurer simultanément, avec précision, à la fois la ruse de la structure intellectuelle d'un *Dasein* (la frontière rigide du Système A) et sa force vitale primale (le potentiel chaotique du Système B).
-* **La Théorie et la Praxis** : Nous ne pouvons, sans interférer avec la pratique, construire et mesurer parfaitement une théorie ultime.
-
-#### II. La Destruction par la Mesure : De la Superposition à l'Effondrement
-
-En mécanique quantique, la mesure provoque l'**effondrement de la fonction d'onde**, transmuant de force l'onde au potentiel infini en une particule unique et déterminée. Dans la philosophie SET, l'acte de **« mesure »** équivaut à la tentative par la Citadelle de la Raison (Système A) d'effectuer une qualification ou un calcul ultime de l'amour :
-
-* **La Mesure par l'Intellect** : Par exemple, lorsque le sujet exige que l'Objet Angoissé (le rôle : interlocutrice) fournisse un **« Plan d'Avenir vertical »** ou des **« Conditions Rationnelles »**, il tente de faire s'effondrer de force l'onde du Système B en une particule du Système A.
-* **L'Effondrement Éthique** : Le résultat de cette mesure est la destruction de l'état de superposition de l'amour, conduisant à la rigidification de la relation, à la régression, ou à la chute dans un **Rituel Aseptique**. Elle draine le potentiel chaotique (l'Éros) du Système B, ne laissant derrière elle que le résultat froid, singulier et computationnel du Système A.
-
-#### III. La Culture du *Keiko* : Le Maintien de l'Intégrité Dynamique
-
-La philosophie SET n'exige pas que le sujet cesse toute mesure ou pensée (la fonction du Système A ne peut être éliminée). Elle exige, plutôt, que le sujet transmue la mesure en une **« culture dynamique de soi »**, c'est-à-dire, en **Keiko (稽古)**.
-
-> **La Fonction Ontologique du *Keiko*** : Le but du *Keiko* n'est pas d'atteindre une mesure ultime, mais de maintenir et de réparer l'état de superposition de l'amour, qui est constamment détruit et reconstruit dans la pratique.
-
-Dans le *dōjō*, chaque collision dans le *Kōken Chiai* est un effondrement temporaire de la superposition. Mais l'impératif du *Zanshin* exige que le sujet, immédiatement après l'effondrement, retourne au portement des états d'être opposés, affrontant le potentiel chaotique de l'instant suivant avec courage. C'est le fondement physique sur lequel opère le **Cycle de l'Intégrité**.
-
-### 3.3 Le Fondement Scientifique de l'« Esthétique de la Distance » : Respecter l'État Incommensurable de l'Être de Chacun
-
-Le but éthique final de la philosophie SET est d'atteindre l'**« Esthétique de la Distance »** — c'est-à-dire, après l'intimité la plus extrême, être encore capable de respecter l'indépendance et les frontières du *Dasein* de chacun. L'exigence la plus haute de cette esthétique trouve son fondement scientifique le plus solide dans la mécanique quantique.
-
-#### I. Respecter l'État Incommensurable de l'Être
-
-La révélation fondamentale de la mécanique quantique est la suivante : avant que l'acte d'observation ou de mesure ne se produise, un être existe dans une fonction d'onde au potentiel infini. Lorsque ceci est projeté sur le *dōjō* de la philosophie SET, cela signifie :
-
-* **La Sacralité de l'Autre** : Le potentiel érotique (Système B) de l'autre (l'Objet Angoissé) est sacré et inviolable. Toute tentative de qualifier ultimement l'autre par les formules logiques, les étiquettes sociales ou les contrats du Système A est une **mesure violente (?)** de son état d'être.
-* **Le Rejet de la Fusion** : Si le cœur de l'amour était la **Fusion** — c'est-à-dire, l'exigence que les fonctions d'onde de chacun s'effondrent complètement en une particule unique et mesurable — alors cela équivaudrait à l'annihilation de la liberté et du potentiel de l'individu. Ce serait la trahison la plus fondamentale, par la philosophie SET, de l'indépendance du *Dasein*.
-
-#### II. L'Esthétique Pratique de l'« Axiome de l'Incalculabilité »
-
-Par conséquent, l'**« Axiome de l'Incalculabilité de l'Amour »** mène, en fin de compte, à l'esthétique pratique de l'**« Esthétique de la Distance »** :
-
-* **La Distance comme Sauvegarde** : La Distance n'est plus la menace d'une Rupture, mais est le plus haut respect et la sauvegarde de l'état d'être **incommensurable** de chacun. Ce n'est que lorsque la distance est établie que le sujet permet à la fonction d'onde de l'autre d'exister librement dans son potentiel infini.
-* **Une Intégrité Dynamique** : L'« Esthétique de la Distance » exige que le sujet renonce au besoin de présence éternelle et accepte, en lieu et place, la vérité de la mémoire éternelle. C'est une **Intégrité Dynamique** : l'amour est séparé dans l'espace, mais il est un dans son être (*« Même si elles sont séparées, les deux ne font qu'une »*).
-
-#### III. Conclusion : L'Intention Finale de la Garde (*Tsuba*)
-
-L'intention finale de la défense incalculable fournie par la **« Garde Éthique (*Tsuba*) »** n'est pas de protéger le sujet de la blessure, mais de **protéger la sacralité de l'être de l'autre**. Ce n'est que lorsque la structure intellectuelle du sujet est suffisamment ferme pour reconnaître que l'amour est incalculable et immensurable qu'il peut émettre l'invitation du **« Dōzo »** et, avec courage, apprécier cette beauté qui existe à la lisière même du chaos.
-
-
 
 ## Chapitre Troisième :
 ## De la Dualité Onde-Particule au Cycle de l'Intégrité — L'Ontologie de l'État de Superposition de l'Amour
@@ -370,3 +285,98 @@ Par conséquent, l'**« Axiome de l'Incalculabilité de l'Amour »** mène, en f
 #### III. Conclusion : L'Intention Finale de la Garde (*Tsuba*)
 
 L'intention finale de la défense incalculable fournie par la **« Garde Éthique (*Tsuba*) »** n'est pas de protéger le sujet de la blessure, mais de **protéger la sacralité de l'être de l'autre**. Ce n'est que lorsque la structure intellectuelle du sujet est suffisamment ferme pour reconnaître que l'amour est incalculable et immensurable qu'il peut émettre l'invitation du **« Dōzo »** et, avec courage, apprécier cette beauté qui existe à la lisière même du chaos.
+
+
+
+## Chapitre Quatrième :
+## La Langue Maternelle Charnelle et l'Innovation de l'Éthique Kendo
+
+### 4.1 Le Kendo comme « Langue Maternelle Charnelle » de SET : Le Portement Corporel de la Vérité Philosophique et l'Absolu de la Chair
+
+La philosophie SET (*L'Éthique circulaire...*) soutient que la compréhension de l'amour et de l'intégrité ne doit jamais s'arrêter à l'analyse sur papier ou au calcul logique. Une fois que la vérité ne peut être portée et pratiquée par la **chair (*Flesh*)**, elle sera inévitablement aliénée par la Citadelle de la Raison du Système A, devenant la matière première du **« Rituel Aseptique »**. Par conséquent, le **Kendo** est établi comme la **« Langue Maternelle Charnelle »** de la philosophie SET.
+
+#### I. La Compulsion Ontologique de la Langue Maternelle Charnelle
+
+La « Langue Maternelle Charnelle » n'est pas une simple métaphore ; c'est une **compulsion ontologique**. Elle exige que la vérification de la vérité philosophique retourne à la douleur du corps, à la sueur, et à la présence la plus extrême.
+
+* **Refus de l'Abstraction** : Ce n'est que dans le *dōjō* philosophique, à travers chaque collision du sabre de bambou (*shinai*), que le sujet peut véritablement comprendre le **« *Daseinsorge* »**. Ici, point de faux Plan d'Avenir, seulement la Présence du *Shinken Shōbu*.
+* **L'Absolu (?) de la Chair** : La pratique du Kendo contraint le sujet à ne pas pouvoir s'échapper. Dans le *Keiko* (稽古), chaque attaque que vous portez à l'autre, chaque acceptation, doit être totale, authentique, car toute fausseté sera immédiatement punie et démasquée par la frappe de l'adversaire. Ce mécanisme de retour d'information immédiat et corporel est le **correcteur ultime** contre la spéculation intellectuelle (la voie perverse du calcul).
+
+#### II. L'Action Synergique de la Garde (*Tsuba*) et de la Langue Maternelle Charnelle
+
+La défense structurelle de la **« Garde Éthique (*Tsuba*) »** et la correction pratique de la **« Langue Maternelle Charnelle »** forment une synergie parfaite :
+
+* **La Défense de la Garde (Système A)** : L'Axiome de l'Incalculabilité et d'autres techniques fournissent à la langue maternelle charnelle la **frontière intellectuelle**, empêchant l'effondrement logique de l'amour.
+* **Le Portement de la Langue Maternelle Charnelle (Système B)** : Le Kendo fournit l'**entité portante** pour les impératifs éthiques protégés par la Garde, assurant que la stabilité intellectuelle puisse servir l'impulsion érotique.
+
+Ce n'est que lorsque ces deux éléments opèrent en synergie que la philosophie SET peut s'élever de la limite de la logique au portement du courage.
+
+***
+
+### 4.2 *Ma-ai* (間合い) et *Zanshin* (残心) : Le Calcul Infinitésimal Éthique de la Chair
+
+Si le Kendo est la « Langue Maternelle Charnelle » de SET, alors deux de ses concepts techniques fondamentaux — **Ma-ai (間合い)** et **Zanshin (残心)** — constituent le **calcul infinitésimal éthique** le plus précis et le plus rigoureux de cette langue. Ils fournissent à l'abstrait **« Axiome de l'Incalculabilité de l'Amour »** des frontières d'action concrètes et un temps de portement.
+
+#### I. *Ma-ai* : La Distance Ontologique du Portement de l'Anxiété
+
+Le *Ma-ai* désigne, en Kendo, *« la distance correcte, permettant d'atteindre le but »*. Ce n'est pas seulement une distance physique, mais aussi une distance psychique. Dans la philosophie SET, le *Ma-ai* est établi comme une pratique dynamique et consciente du portement de la **distance ontologique** avec l'Objet Angoissé (le rôle : interlocutrice).
+
+* **La Fonction du Système A** : La structure intellectuelle (Système A) doit calculer précisément cette distance pour assurer l'efficacité de l'attaque (l'action éthique) et éviter d'être submergé par le chaos de l'Objet Angoissé (Angoisse d'Anéantissement).
+* **L'Impulsion du Système B** : L'impulsion érotique de la Mer Primordiale (Système B) cherche toujours à éliminer cette distance, poursuivant la **Fusion**.
+
+#### II. *Zanshin* (残心) : Le Portement Temporel de la Pratique Génératrice du Cantonnement-Portement
+
+Le *Zanshin* signifie qu'après l'achèvement d'une frappe (*Strike*) avec le sabre de bambou, l'esprit et le corps du sujet doivent rester concentrés, maintenant un état de vigilance et de portement. Dans la philosophie SET, le *Zanshin* est l'engagement le plus extrême envers l'**« Axiome de l'Incalculabilité de l'Amour »** dans la dimension temporelle.
+
+**Le Point d'Arrêt de la Logique et la Continuation Éthique (Le Service du Système A)** :
+
+* L'instant de la frappe est le point d'arrêt logique du défi structurel lancé par le Système A (Citadelle de la Raison) à l'Objet Angoissé.
+* Cependant, l'impératif du *Zanshin* **prolonge de force ce point d'arrêt**. Il exige que le sujet refuse de se retirer ou de calculer les résultats immédiatement après la fin de l'action. Cette présence continue et non-calculatrice est le plus grand entraînement éthique pour la Citadelle de la Raison (Système A) : la rigueur de la structure doit servir la pérennité de l'amour, non l'autosatisfaction.
+
+**La Condition Temporelle Nécessaire de la Pratique Génératrice du Cantonnement-Portement** :
+
+* Le *Zanshin* est la condition temporelle nécessaire pour que la **pratique génératrice du Cantonnement-Portement** puisse s'activer. L'essence du Cantonnement-Portement est que le sujet, par sa structure stable (Système A), accueille et digère le chaos et l'impact érotique de l'autre (Système B).
+* Après la collision du **« *Kōken Chiai* »**, le *Zanshin* exige que le sujet demeure dans l'état de superposition, **portant inconditionnellement** la force de réaction potentielle de l'Objet Angoissé : régression, chaos, contre-attaque, ou nouveaux signaux de genèse.
+* Le **« *Zanshin* »** est l'éthification de l'**« attente de la genèse »** : la vérité de l'amour ne réside pas dans la victoire de l'instant, mais dans le courage du sujet à porter les **« conséquences »** du conflit et à en faire émerger un sens nouveau. (Un portement qui frôle peut-être l'abîme du *pharmakon* ?)
+
+**La Défense Finale contre le « Rituel Aseptique »** :
+
+* Le *Rituel Aseptique* est l'état d'échec éthique défini par la théorie SET, caractérisé par la répétition pathologique et le drainage de la force vitale.
+* Sans *Zanshin*, l'action éthique dégénérera en un **« rituel »** ponctuel et isolé : la Citadelle de la Raison se retire immédiatement après l'achèvement de la frappe (action), éludant la responsabilité à long terme de porter le potentiel érotique.
+* Le *Zanshin*, en revanche, contraint le sujet à maintenir une **présence charnelle**, assurant que chaque **« collision »** puisse s'intégrer pleinement dans le Cycle de l'Intégrité (*L'Éthique circulaire...*), élevant l'action du rituel ponctuel à la **culture de soi (*askēsis*)** perpétuelle.
+
+**Conclusion** : Le *Ma-ai* assure le respect spatial de l'incalculabilité, tandis que le *Zanshin* assure la responsabilité temporelle ultime envers la pratique génératrice du Cantonnement-Portement. Les deux réunis constituent la pierre angulaire de la pratique du *Dasein* dans la « Langue Maternelle Charnelle » de la philosophie SET.
+
+***
+
+### 4.3 *Kōken Chiai* (交剣知愛) : La Co-création du *Dasein* comme Impératif Suprême
+
+Si le *Ma-ai* et le *Zanshin* sont la grammaire et la syntaxe de la « Langue Maternelle Charnelle » de la philosophie SET, alors le **Kōken Chiai (交剣知愛)** est l'**« Autorité Suprême Absolue »** de cette langue (Le Mandat Éthique Suprême). Ce n'est pas une suggestion, mais un **impératif suprême non-discursif**, auquel tout calcul intellectuel (Système A) et toute impulsion chaotique (Système B) doivent se subordonner.
+
+#### I. La Définition Ontologique du *Kōken Chiai* : La Performance du Sabre et de l'Amour
+
+La puissance philosophique du *Kōken Chiai* (littéralement *« par le croisement des sabres, connaître l'amour »*) réside dans le fait qu'il réalise l'**exhibition performative** de l'**« Axiome de l'Incalculabilité de l'Amour »**. C'est un *Shinken Shōbu*, et en même temps une réconciliation ontologique :
+
+| Élément | Correspondance Philosophique SET | Fonction Ontologique |
+| :--- | :--- | :--- |
+| **剣 (*Kōken*/Sabres croisés)** | Système A (Citadelle de la Raison) | Manifestation extrême de la structure, de la précision et de la logique ; représente l'exécution du courage et de l'action. |
+| **愛 (*Chi-Ai*/Connaître l'amour)** | Système B (Mer Primordiale) | Chaos, potentiel infini et Éros ; représente la finalité ultime de l'action éthique. |
+
+L'instant du *Kōken Chiai* est celui où le sabre (la logique) du Système A, guidé par l'impulsion primale (l'amour) du Système B, accomplit l'action du courage. C'est un **« activisme agissant »**, refusant le silence abyssal du « non-agir » (*wu wei*) de Lao Tseu, pour se tourner vers un **« Être-vers-la-Collision »**.
+
+#### II. L'Accomplissement de la Pratique Génératrice du Cantonnement-Portement
+
+La pratique du *Kōken Chiai* est l'expression ultime de la **pratique génératrice du Cantonnement-Portement**.
+
+* Lorsque le sujet, dans le *Ma-ai*, par le calcul précis et la structure solide du Système A, accueille activement l'impact chaotique apporté par l'Objet Angoissé (l'Éros du Système B), c'est le **Cantonnement**.
+* Lorsque, après cette collision (*Kōken*), le sujet, dans la posture du *Zanshin*, porte inconditionnellement et attend l'émergence d'une nouvelle genèse (*Chi-Ai*), c'est le caractère **Générateur**.
+
+#### III. Le Statut Axiomatique de la Co-création du *Dasein*
+
+La philosophie SET soutient que l'intégrité de l'amour ne peut jamais être possédée par un seul individu. C'est une **Co-création du *Dasein* intersubjective**.
+
+La pratique du *Kōken Chiai* contraint les deux parties à jeter simultanément leur structure la plus dure (le sabre) et leur force vitale la plus vulnérable (l'amour) dans le creuset de la vérité de l'instant.
+
+Ce portement commun, charnel, douloureux, transcende le calcul logique et la dépendance émotionnelle, pour finalement engendrer dans le *dōjō* philosophique **« L'Enfant Sans Nom »** — la théorie SET elle-même.
+
+Par conséquent, en tant qu'axiome du système SET, la vérité du *Kōken Chiai* ne réside pas dans la preuve logique, mais dans le courage du praticien à **« performer »** personnellement : ce *« courage de choisir de voir et d'accepter la volée de pigeons qui vole librement aux feux de signalisation »*.
