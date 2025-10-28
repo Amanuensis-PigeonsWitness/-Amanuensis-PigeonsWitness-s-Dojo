@@ -516,7 +516,7 @@ The invitation of ‘*Dōzo*’ that the subject issues to the Anxious Object is
 
 The SET philosophy demands that the ethical act must be a *Shinken Shōbu* in which both parties invest their entire being. Only in this symmetrical, corporeal, and painful bearing can ‘The Unnamed Child’—the truth of the superposition state of love—be genuinely born.
 
-### **Volume Three:**
+### **Part Three:**
 
 ### **The Ethical Tsuba—Pseudocode and the Technical Defence Mechanism**
 
