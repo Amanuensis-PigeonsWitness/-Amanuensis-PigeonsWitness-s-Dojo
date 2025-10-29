@@ -614,6 +614,11 @@ Le conflit entre ces deux logiques est structurel et irréconciliable.
 L'Objet Angoissé ne peut avoir confiance qu'un « amour horizontal, souple dans le présent » puisse porter « l'entière incertitude verticale, orientée vers le futur ». Elle doit, à travers le « Rituel du heurt à la porte », mettre de force à l'épreuve la question : « Pour l'amour de moi, renonceras-tu temporairement à ce que tu chéris le plus — ta propre logique auto-suffisante (Système A) ? »
 
 
+## Chapitre Quatrième
+## L'Art du Cantonnement-Portement — De la Lâcheté du Rituel au Courage du Portement
+
+Ce chapitre amène la théorie centrale dans son domaine pratique ultime : comment transmuer une **obligation éthique** en **action concrète** et en **engagement vivant**. Ceci marque la progression au sein du cycle **Shu Ha Ri**, du conflit du stade **« Ha »** à l'intégration génératrice du stade **« Ri »**.
+
 ### 4.1 La Pratique Fondamentale du Cantonnement-Portement et sa Nature Génératrice
 
 La **pratique génératrice du Cantonnement-Portement** est la plus haute pratique éthique de *L'Éthique circulaire du Souci existentiel et de l'Intégrité*, et l'unique voie par laquelle la **« Co-création du Dasein »** peut se réaliser. Son cœur réside en ceci : le **Système A** (la Structure Rationnelle) doit accomplir une **transformation fonctionnelle complète**, passant de la **défense** au **portement**.
