@@ -1,5 +1,5 @@
 ## Die Zirkuläre Ethik der Integrität und des Daseinsorge: Eine Existenzialistische Körperphilosophie und die Askese der Liebe (Zweite Auflage)
-
+Amanuensis: Pigeons Witness
 ## Vorwort: Die Körperliche Genese der Philosophie — Konvulsion, Blick und Erwachen
 
 Die Genese dieses philosophischen Systems wurzelt in den tiefgreifenden Aufwallungen und heftigen Transformationen der individuellen Lebenserfahrung. Die Schöpfung dieser Theorie beginnt in einer Urszene, erfüllt von Schmerz, Angst und Liebe. Diese Philosophie stellt einen ethischen Ruf zum **Daseinsorge** dar; ihr Kern liegt darin, das philosophische Denken wahrhaft in eine tatsächliche **Sorge um die Welt** zu verwandeln.
