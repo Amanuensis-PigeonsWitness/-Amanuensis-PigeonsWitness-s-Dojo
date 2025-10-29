@@ -919,40 +919,44 @@ Ceci rend également la déclaration finale de l'auteur d'autant plus poignante 
 | **Dōzo (どうぞ)** | **L'invitation active du Cantonnement-Portement :** incarner une « Volonté d'être frappé » ; inviter la vérité de l'autre depuis un lieu d'amplitude spirituelle. |
 | **Ken-tai-itchi (懸待一致)** | **L'intégration ultime des Systèmes A/B :** unifier l'attaque et la défense, où une présence stable devient le plus puissant acte d'amour (*Seme*). |
 | **Oji-waza (応じ技)** | **L'amour de précision qui transmue le chaos :** transmuer le conflit en connexion par une réponse précise à son inception même. |
-Troisième Partie
-(Transcendance et Convergence)
-Chapitre Cinquième
-L'État Suprême de l'Amour — L'Esthétique de la Distance et la Co-création du Dasein
-Le test final de cette éthique réside dans la manière dont elle définit le point d'achèvement d'un « amour accompli ». Ce point d'achèvement doit être un état dans lequel, après l'intimité et le conflit les plus extrêmes, l'indépendance du Dasein de chacun est encore préservée.
-
-5.1 L'Équilibre Dynamique : La Quête de la Frontière et de l'Indépendance
-En tant que système philosophique qui transmue un diagnostic ontologique en une pratique éthique, la mission ultime de L'Éthique circulaire du Souci existentiel et de l'Intégrité n'est nullement de définir comment une relation commence ou se maintient. Elle est, plutôt, de définir comment ce périple de « Co-création du Dasein » doit trouver son équilibre dynamique au sens ontologique. L'« amour accompli » que nous recherchons doit être un état suprême dans lequel, après avoir éprouvé le plus véritable « Shinken Shōbu », l'indépendance du Dasein de chacun est encore préservée.
-
-Si nous définissons à tort le point d'achèvement du conflit comme une fusion ou une assimilation infinie, alors ce chemin échouera inévitablement et mènera à un nouveau piège pathologique. Si l'amour tente de dévorer l'autre, il devient un tyran terrifiant ; si une éthique prône la dissolution des frontières, elle dégénère en une excuse pour éluder la responsabilité. Par conséquent, nous devons affirmer, sans équivoque :
-
-La vraie victoire éthique n'est pas l'élimination des frontières, mais la recherche d'un équilibre dynamique capable de préserver l'indépendance du Dasein de chacun.
-
-Cet équilibre dynamique est le plus haut hommage à l'essence de l'amour, à l'indépendance du sujet, et à la sacralité de l'autre.
-
-La Peur Primale de la Citadelle de la Raison : L'Angoisse d'Anéantissement
-
-Dans notre cadre théorique, la raison pour laquelle le sujet (Système A) défend si férocement sa « Citadelle de la Raison » est parce que, dans les profondeurs du subconscient, il est mû par une peur primale, pure et destructrice. Cette peur ne provient pas des échecs ou frustrations quotidiens, mais d'une terreur ontologique du désordre, de l'Éros pur du « Système B » (la Mer Primordiale). Nous nommons cette peur :
-
-« L'Angoisse d'Anéantissement : la peur que votre “Système A” ne soit à nouveau pénétré et submergé par son “Système B”, conduisant à une mort psychique.»
-
-Cette angoisse est une crise ontologique de survie. Le sujet craint que le chaos du Système B ne pénètre et ne submerge les frontières du moi, conduisant à une auto-dissolution psychique. Le sujet choisit donc la régression, qui à son tour mène aux phénomènes pathologiques que nous avons révélés dans Sur la Régression du Sujet et la Solitude de l'Objet Angoissé.
-
-Lorsque le sujet ne peut porter ce chaos avec le courage de la « pratique génératrice du Cantonnement-Portement », il régressera ultimement dans un état pathologique et sans vie. Il réduit l'autre (l'Objet Angoissé) à :
-
-« un réceptacle de plaisir purement stérile. »
-
-C'est un mécanisme de défense exquis et désespéré ; il « mime la chaleur de l'amour, tout en en coupant complètement la réalité ». Le sujet aspire à un « Rituel Aseptique », cherchant à assurer la sécurité absolue de sa structure rationnelle en dépouillant l'acte sexuel et l'amour de tous les éléments du « Chaos Sacré ».
-
-Nous devons reconnaître que la tragédie de cette régression réside précisément dans la confusion par le sujet du « Cantonnement-Portement » avec la « Fusion ». Ils craignent qu'une fois la frontière ouverte, ils ne soient transformés « d'un prisonnier de la “Citadelle de la Raison” en une “victime sacrificielle” de la “Mer Primordiale” ».
-
-Par conséquent, la tâche éthique de définir cet équilibre dynamique est précisément de montrer au sujet un chemin : un chemin sur lequel ils n'ont plus besoin de craindre l'« Angoisse d'Anéantissement » ; un chemin qui considère l'« amour » et les « frontières » comme la précondition nécessaire l'un de l'autre.
 
 
+## Troisième Partie
+## (Transcendance et Convergence)
+### Chapitre Cinquième
+### L'État Suprême de l'Amour — L'Esthétique de la Distance et la Co-création du Dasein
+
+Le test final de cette éthique réside dans la manière dont elle définit le point d'achèvement d'un **« amour accompli »**. Ce point d'achèvement doit être un état dans lequel, après l'intimité et le conflit les plus extrêmes, **l'indépendance du Dasein de chacun est encore préservée**.
+
+***
+
+### 5.1 L'Équilibre Dynamique : La Quête de la Frontière et de l'Indépendance
+
+En tant que système philosophique qui transmue un diagnostic ontologique en une pratique éthique, la mission ultime de *L'Éthique circulaire du Souci existentiel et de l'Intégrité* n'est nullement de définir comment une relation commence ou se maintient. Elle est, plutôt, de définir comment ce périple de **« Co-création du Dasein »** doit trouver son **équilibre dynamique** au sens ontologique. L'**« amour accompli »** que nous recherchons doit être un **état suprême** dans lequel, après avoir éprouvé le plus véritable **« *Shinken Shōbu* »**, **l'indépendance du Dasein de chacun est encore préservée**.
+
+Si nous définissons à tort le point d'achèvement du conflit comme une **fusion** ou une **assimilation infinie**, alors ce chemin échouera inévitablement et mènera à un **nouveau piège pathologique**. Si l'amour tente de dévorer l'autre, il devient un **tyran terrifiant** ; si une éthique prône la dissolution des frontières, elle dégénère en une excuse pour éluder la responsabilité. Par conséquent, nous devons affirmer, sans équivoque :
+
+> **La vraie victoire éthique n'est pas l'élimination des frontières, mais la recherche d'un équilibre dynamique capable de préserver l'indépendance du Dasein de chacun.**
+
+Cet **équilibre dynamique** est le plus haut hommage à l'essence de l'amour, à l'indépendance du sujet, et à la sacralité de l'autre.
+
+#### La Peur Primale de la Citadelle de la Raison : L'Angoisse d'Anéantissement
+
+Dans notre cadre théorique, la raison pour laquelle le sujet (**Système A**) défend si férocement sa **« Citadelle de la Raison »** est parce que, dans les profondeurs du subconscient, il est mû par une **peur primale, pure et destructrice**. Cette peur ne provient pas des échecs ou frustrations quotidiens, mais d'une **terreur ontologique** du désordre, de l'Éros pur du **« Système B » (la Mer Primordiale)**. Nous nommons cette peur :
+
+> **« L'Angoisse d'Anéantissement : la peur que votre “Système A” ne soit à nouveau pénétré et submergé par son “Système B”, conduisant à une mort psychique.»**
+
+Cette angoisse est une **crise ontologique de survie**. Le sujet craint que le chaos du Système B ne pénètre et ne submerge les frontières du moi, conduisant à une **auto-dissolution psychique**. Le sujet choisit donc la **régression**, qui à son tour mène aux phénomènes pathologiques que nous avons révélés dans *Sur la Régression du Sujet et la Solitude de l'Objet Angoissé*.
+
+Lorsque le sujet ne peut porter ce chaos avec le courage de la **« pratique génératrice du Cantonnement-Portement »**, il régressera ultimement dans un **état pathologique et sans vie**. Il réduit l'autre (l'Objet Angoissé) à :
+
+> **« un réceptacle de plaisir purement stérile. »**
+
+C'est un mécanisme de défense **exquis** et **désespéré** ; il **« mime la chaleur de l'amour, tout en en coupant complètement la réalité »**. Le sujet aspire à un **« Rituel Aseptique »**, cherchant à assurer la **sécurité absolue** de sa structure rationnelle en dépouillant l'acte sexuel et l'amour de tous les éléments du **« Chaos Sacré »**.
+
+Nous devons reconnaître que la tragédie de cette régression réside précisément dans la confusion par le sujet du **« Cantonnement-Portement »** avec la **« Fusion »**. Ils craignent qu'une fois la frontière ouverte, ils ne soient transformés **« d'un prisonnier de la “Citadelle de la Raison” en une “victime sacrificielle” de la “Mer Primordiale” »**.
+
+Par conséquent, la **tâche éthique** de définir cet équilibre dynamique est précisément de montrer au sujet un chemin : un chemin sur lequel ils n'ont plus besoin de craindre l'**« Angoisse d'Anéantissement »** ; un chemin qui considère l'**« amour »** et les **« frontières »** comme la **précondition nécessaire** l'un de l'autre.
 
 
 
