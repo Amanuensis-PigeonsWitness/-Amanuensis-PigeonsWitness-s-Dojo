@@ -2580,3 +2580,122 @@ Conclusion & Recommandation :
 
 * Que l'Ingénieur de Maintenance Éternelle reçoive le bonus de performance le plus élevé possible.  
 * Que son contrat de travail soit prolongé, indéfiniment, jusqu'à l'« Éternité ».
+
+
+
+## Appendice C. Dictionnaire
+### Dictionnaire du Système Philosophique et Critique SET
+
+Les termes répertoriés dans ce dictionnaire proviennent de **« L'Éthique circulaire du Souci existentiel et de l'Intégrité » (SET)**, une œuvre qui intègre la **Critique Structurale** et une **Éthique de l'Individu** en une philosophie pratique et dynamique du **Shu Ha Ri**.
+
+***
+
+### Axe Un : Ontologie Éthique Fondamentale & Pratique
+**Définition** : La double structure de la psyché individuelle, l'essence de l'amour, et le but suprême d'une pratique charnelle.
+
+#### A. Concepts Fondamentaux & Buts Générateurs
+
+| Terme (Français / Anglais) | Définition & Fonction Philosophique | Association Clé & Signification Éthique |
+| :--- | :--- | :--- |
+| **Le Cantonnement-Portement Générateur** (*Generative Containment*) | [La Plus Haute Pratique Éthique] : Se réfère au sujet (**Système A**) portant activement le chaos de l'autre (**Système B**) et le transmuant en une **action conjointe de création d'un futur**. C'est l'acte de résistance ultime contre le **« Rituel Aseptique »**. | **La victoire ultime de l'éthique** : Incarne la genèse finale de **« Ri »** dans le Shu Ha Ri. |
+| **La Co-création du Dasein** (*Dasein Co-Creation*) | [But Ontologique] : Définit le **plus haut engagement de l'amour**. Souligne le processus par lequel deux **Dasein indépendants**, à travers la pratique, **construisent conjointement un espace existentiel partagé**, fait de résilience et d'intégrité. | **Transcender Sartre** : Déplace le *Daseinsorge* de la solitude vers une **« futurité partagée »**. |
+| **Le Cycle de l'Intégrité** (*Integrity Cycle*) | [Méthode] : **L'intégrité dynamique**. Se réfère au mouvement éternel de **collision, désintégration, réorganisation et reprise contenante** entre le Système A et le Système B. | **Le plus haut but de la pratique** : Résister à la rigidité de la SET (critique) et à la pathologie de Lacan. |
+| **Kōken Chiai** (*Love Through the Crossing of Swords*) | [Pratique Charnelle] : Exige du sujet, au milieu du **conflit le plus féroce** (*Shinken Shōbu*), de **reconnaître et de respecter le Dasein de l'autre**. | **Le cœur opératoire du Cantonnement-Portement** : Son art ultime est le **« Mutō-dori »**. |
+| **L'Enfant Sans Nom** (*Unnamed Child*) | [Image Génératrice] : Le **fruit final du Cantonnement-Portement Générateur**. Représente le **portement partagé de l'incertitude du futur** à travers la pratique charnelle de l'amour et de l'engagement. | **La forme finale d'Éros** : Une entité éthique qui transcende le **« stérile »** et le **« rituel »**. |
+| **L'Engagement du Dasein** (*Dasein-Commitment*) | [Forme de l'Engagement Amoureux] : Un engagement **horizontal**, centré sur la **« présence » de l'ici et maintenant**, distinct du traditionnel **« Plan d'Avenir (vertical) »**. | **La "présenteté" de l'éthique** : Oppose l'authenticité à la fausse sécurité du contrat. |
+| **La Troisième Relation** (*The Third Relation*) | [Forme Ontologique de la Relation] : Une relation **purement philosophique** qui **ne poursuit ni la stabilité du contrat, ni ne se satisfait de la libération pulsionnelle**. C'est une transcendance du binaire traditionnel. | **Le cœur des Dialogues** : Rompt la dichotomie traditionnelle du contrat et de l'instinct. |
+| **L'Esthétique de la Distance** (*Aesthetics of Distance*) | [But Esthétique] : Originaire de *Kyōto* (*Koto*). Se réfère à l'**appréciation et au respect de la distance indépendante de l'autre et de soi**, sous la précondition de n'impliquer **ni empiètement ni fusion**. | **L'état suprême du Cantonnement-Portement** : Un respect pour la solitude de l'un et de l'autre. |
+
+#### B. Le Cosmos Duel & ses Dynamiques
+
+| Terme (Français / Anglais) | Définition & Fonction Philosophique | Association Clé & Signification Éthique |
+| :--- | :--- | :--- |
+| **Système A** (*System A* / *Rational Structure*) | [Structure] : La structure intellectuelle / la forteresse rationnelle. Une structure psychique fonctionnelle qui poursuit l'**ordre, la logique et l'aversion au risque**. | **Le Feu de Signalisation** : Le commandement froid du Système A. |
+| **La Citadelle de la Raison** (*Citadel of Reason*) | [L'État Ultime du Système A] : La structure **impénétrable** et **hautement défensive** bâtie par le Système A pour parer à tout risque émotionnel. | **Le point de départ de la philosophie** : Ce qui doit être fracassé par le Rituel du heurt à la porte. |
+| **Système B** (*System B* / *Primeval Sea*) | [Chaos] : La mer primordiale. Représente le **désordre, l'Éros pur, l'atemporalité**, et la source de la vérité. | **Les Pigeons** : L'image de liberté du Système B. |
+| **La Guerre d'Éros** (*War of Eros*) | [Dynamique] : Le **conflit éternel** entre le Système A et le Système B, déclenché par le heurt contre la frontière. | **L'inévitabilité du conflit** : La source de puissance pour l'opération du Cycle de l'Intégrité. |
+| **Les Pigeons aux Feux de Signalisation** (*Pigeons under the Traffic Light*) | [Image] : Représente la **juxtaposition et le conflit**, au sein d'un même espace, de l'**Éros primal et de la discipline rationnelle**. | **Le point de départ du paradoxe** : L'image initiale de votre éveil philosophique. |
+| **Amour Non-Mécanique** (*Non-Inorganic/Mechanical Love*) | [L'Essence de l'Amour] : Un amour **pur, non-fonctionnel**, non gouverné par les règles du Système A. | **Le cœur du Système B** : L'opposé du commandement froid du Feu de Signalisation. |
+| **Mécanique Émotionnelle** (*Emotional Mechanics*) | [Le But d'une Nouvelle Science] : **Transmuer le chaos émotionnel** en un ensemble systématique et cartographiable de lois philosophiques. | **La conscience de soi de la méthode** : L'ordre psychique est activement construit par le langage, la structure et l'auto-interrogation. |
+
+#### C. Terminologie de la Pratique & du Dialogue
+
+| Terme (Français / Anglais) | Définition & Fonction Philosophique | Association Clé & Signification Éthique |
+| :--- | :--- | :--- |
+| **Dōzo** (*Please, I Invite You*) | [Le Mode d'Action Ultime] : La **plus haute invitation à l'action** pour la « Co-création du Dasein ». Représente le sujet mettant activement de côté les défenses de l'intellect et, par un **« engagement sans résistance »**, **« portant » le risque intégral de l'autre**. | **La pratique du courage** : Un Engagement de l'ici et maintenant. |
+| **Mutō-dori** (*No-Sword Capture*) | [Technique Éthique] : Dans une situation de conflit extrême et dangereux, **déposer sa propre arme et utiliser son corps et sa confiance** pour neutraliser l'hostilité et l'attaque de l'autre. | **L'art final du Kōken Chiai**. |
+| **Shinken Shōbu** (*True Sword Match*) | [Condition de la Pratique] : Dans une relation, on doit s'engager dans une **collision authentique**, chargée de risque et de menace existentielle. | **L'obligation du conflit** : Le champ nécessaire pour l'accomplissement du Kōken Chiai. |
+| **Le Vent du Sud et le Métro** (*The South Wind and The Underground/MRT*) | [Métaphore Herméneutique] : Le **Vent du Sud** (la chaleur et le chaos du Système B) doit être **porté et transmis** par le **Métro** (la structure et l'efficacité du Système A). | **Un guide opératoire du Cantonnement-Portement** : Transmue l'abstraction du « Cantonnement-Portement » en une image concrète et compréhensible. |
+| **Les Conditions Rationnelles** (*Rational Conditions*) | [L'Obstacle Éthique] : Les règles préétablies que le sujet fixe au sein de l'amour (par ex., l'exigence de stabilité et de prévisibilité). La raison du Rituel du heurt à la porte de l'Objet Angoissé. | **L'opposé du contrat** : Dès que l'amour pose des conditions, il cesse d'être inconditionnel. |
+| **L'Intégrité Communautaire** (*Communal Integrity*) | [L'État Suprême de l'Amour] : L'état d'intégrité **commun, et non isolé**, atteint par deux sujets indépendants dans la Co-création du Dasein. | **Le résultat de la Co-création du Dasein** : Transcende l'auto-suffisance de l'individu. |
+| **La Déclaration Finale du Kōken Chiai** (*Kōken Chiai's Final Statement*) | [Résumé Éthique] : **« Notre connexion ne se fonde pas sur ta victoire ou la mienne, mais sur le courage que nous avons de traverser cela ensemble. »** | **Une inscription éthique** : Résume la relation entre l'amour et le courage. |
+
+---
+
+### Axe Deux : Critique Structurale & Déconstruction
+**Définition** : L'application des outils de Foucault et de la SET (critique) pour déconstruire les grandes idéologies, les réduisant à la raison technique et à la logique bureaucratique.
+
+#### A. Concepts Fondamentaux & Structure de la SET (Critique)
+
+| Terme (Français / Anglais) | Définition & Fonction Philosophique | Association Clé & Signification Éthique |
+| :--- | :--- | :--- |
+| **L'Ingénieur de Maintenance Perpétuelle (PME)** (*Perpetual Maintenance Engineer*) | [L'Essence du Pouvoir] : La description de poste révisée du Dieu de la théologie classique. Ses objectifs premiers sont l'**opérabilité perpétuelle et la sécurité positionnelle**. | **Gouvernementalité** : L'expression ultime de la raison technique au niveau métaphysique. |
+| **Le Véritable Utilisateur Est Mort** (*The Real User Is Dead*) | [Diagnostic de la Subjectivité] : Sous la domination de la SET (critique), la subjectivité (**liberté**) de l'individu est **colonisée et réifiée** par la raison technique. | **La « mort de l'homme » de Foucault** : L'étape finale de la séquence critique. |
+| **Le Conteneur Secondaire / Le Classement Secondaire** (*Secondary Container / Secondary Grading*) | [Diagnostic Ontologique] : Se réfère au statut de l'humanité dans la conception du système divin en tant qu'instances à **haut risque et non-déterministes**. Le Classement Secondaire est la conclusion de conception concernant le libre arbitre. | **Un but de conception utilitariste** : Le libre arbitre est l'outil que Dieu utilise pour trier et stratifier l'humanité. |
+| **Le Cycle de Maintenance Perpétuelle** (*Perpetual Maintenance Cycle*) | [L'Auto-Perpétuation du Système] : La **boucle parfaite** de Dieu (laissant des bogues) → l'Utilisateur (souffrance/prière) → le CP/Gestionnaire (platitude émotionnelle), qui **assure que le système ne se termine jamais**. | **La structure de la SET (critique)** : Révèle que la souffrance est **intégrée** (*embedded*), non contingente. |
+| **Le Bogue Système / Le Bogue Délibérément Implémenté** (*System Bug / Deliberately Implemented Bug*) | [L'Essence de la Souffrance] : Un diagnostic structurel du péché originel et de la souffrance. La souffrance est un **défaut stratégique, implémenté par le système pour assurer sa propre maintenance perpétuelle**. | **Théodicée** : Un **réductionnisme** qui réduit un problème théologique à un problème d'ingénierie. |
+| **L'Incitation Prospective Perpétuelle** (*Perpetual Forward-Looking Incentive*) | [Stratégie Capitaliste] : La fonction opérationnelle du **« Paradis 2.0 »**. Il promet un futur parfait pour **maintenir la loyauté système des utilisateurs** envers les défauts du système actuel. | **Une stratégie de gratification différée** : Transmue la souffrance en un outil idéologique d'exploitation. |
+| **Capacité Technique Insuffisante** (*Insufficient Technical Capability*) | [Une Explication Alternative pour la SET (critique)] : Une explication réductionniste de la raison pour laquelle Dieu permet aux défauts système (bogues) d'exister. | **Critique Interne** : À contraster avec la stratégie opérationnelle de **« maintenir sa propre indispensabilité »**. |
+| **La Dette Technique** (*Technical Debt*) | [Défaut Système] : Les défauts système inévitables accumulés par l'ingénieur lors d'une création hâtive ; une explication alternative aux défauts système. | **Une réduction d'ingénierie des systèmes** : Réduit le péché originel à la négligence de l'ingénieur. |
+
+#### B. Rôles de Pouvoir & Violence Discursive
+
+| Terme (Français / Anglais) | Définition & Fonction Philosophique | Association Clé & Signification Éthique |
+| :--- | :--- | :--- |
+| **L'Évangile du Managérialisme** (*Gospel of Managerialism*) | [Le Genre de la SET (critique)] : Le genre théologique de la SET. L'ultime auto-expression, à un niveau métaphysique, d'une vision du monde qui réduit la foi à la **performance quantifiée** et à la **suprématie de la solution technologique**. | **La théologie du néolibéralisme** : Le contrepoint au moralisme de la théologie traditionnelle. |
+| **La Couche Tampon Artificielle** (*Artificial Buffer Layer*) | [Intermédiaire du Pouvoir] : Se réfère aux cadres moyens tels que Gabriel et le clergé. Leur devoir est d'agir comme un **tampon entre les défauts de conception de l'ingénieur et les plaintes des utilisateurs**. | **Le rôle du Chef de Projet** : Traduire le Rapport de Bogue (prière) de l'utilisateur en « plan divin ». |
+| **Invoquer la Clause d'« Inexprimabilité »** (*Invoking the 'Inexpressibility' Clause*) | [Stratégie de Relations Publiques SET] : Se réfère à l'utilisation par la direction céleste de phrases telles que **« le dessein divin est impénétrable »** pour **obscurcir théologiquement** les défauts de conception du système. | **Gestion de Marque** : Langage courant pour traduire un bogue catastrophique. |
+| **Symptôme Théologique** (*Theological Symptom*) | [Le Statut de la SET (critique)] : Se réfère à l'idée que la SET (critique) elle-même n'est pas la critique finale de la théologie, mais est un **symptôme produit par une « vision du monde dominée par la raison technique »**. | **Critique Interne** : L'admission que la SET (critique) est, elle aussi, le produit d'une « épistémè ». |
+| **Filtrage des Retours** (*Feedback Filtering*) | [Fonction de CP] : Le service client **re-catégorisant** tous les tickets de prière concernant l'inondation de **« Bogue Système » à « Mésinterprétation de l'Utilisateur »**. | **La violence du langage de R.P.** : La distorsion de l'expérience de l'utilisateur. |
+
+---
+
+### Axe Trois : Pathologie & Méthodologie
+**Définition** : Termes traitant de la pathologie interne (Lacan), des risques externes et des méthodes pratiques.
+
+#### A. Pathologie & Trauma
+
+| Terme (Français / Anglais) | Définition & Fonction Philosophique | Association Clé & Signification Éthique |
+| :--- | :--- | :--- |
+| **La Solitude de l'Objet Angoissé** (*Solitude of the Anxious Object*) | [Diagnostic Éthique] : La souffrance de l'autre, causée par le **détachement du sujet régressé**. La **« stérilisation » du sujet** réduit le « Rituel du heurt à la porte » de l'objet à un « monologue ». | **Une alarme éthique** : Une critique du risque éthique interne de la théorie. |
+| **Le Rituel Aseptique** (*Aseptic Ritual*) | [Pathologie] : La **régression pathologique de l'amour**. Le sujet, après un trauma, tente d'utiliser des comportements ritualisés pour parer au **risque de submersion émotionnelle**. | **La Critique Lacanienne** : La théorie, face au trauma, peut conduire à une **« répétition pathologique »**. |
+| **L'Angoisse d'Anéantissement** (*Annihilation Anxiety*) | [L'Angoisse Fondamentale du Sujet] : La peur du sujet (**Système A**) que le **chaos du Système B ou de l'Objet Angoissé ne pénètre et ne submerge les frontières du moi**, conduisant à une **auto-dissolution psychique**. | **Régression** : L'impulsion fondamentale pour le sujet d'initier le **« Rituel Aseptique »**. |
+| **L'Asymétrie du Souci** (*Asymmetry of Concern*) | [Échec Éthique] : L'**instrumentalisation de la souffrance** d'une partie par l'autre comme **« matière première pour sa propre croissance et genèse philosophique »**. | **La cause fondamentale** du diagnostic de la « Solitude de l'Objet Angoissé ». |
+| **Le Rituel du heurt à la porte** (*Door-Battering Ritual*) | [L'Action de l'Objet Angoissé] : **L'Objet Angoissé**, de tout son être, **heurte la Citadelle de la Raison du sujet**, « forgée de couches d'acier logique ». | **Une Invitation Sacrée** : L'essence du Regard est une **« Invitation au Chaos Sacré »**. |
+| **Re-traumatisation** (*Re-traumatization*) | [Risque Pathologique pour le Sujet] : Les mécanismes de défense du sujet échouent en raison de la confrontation directe avec la source du trauma, lui faisant **re-expérimenter l'impuissance et l'angoisse d'anéantissement initiales**. | **La conséquence de la régression** : Prouve que le « symptôme » ne peut guérir le « trauma ». |
+| **Le Symptôme comme Vérité** (*Symptom is Truth*) | [Principe de Pathologie] : L'idée qu'un comportement externe **douloureux et irrationnel** (un symptôme) est précisément la **production psychique d'une vérité intérieure**. | **Interpréter la régression** : Votre régression est la genèse d'une vérité de l'âme. |
+| **La Constance de l'Objet** (*Object Constancy*) | [Le Besoin Fondamental de l'Objet Angoissé] : Confirmer, par un test de heurt à la porte extrême, si le sujet, cet **« objet d'amour »**, restera **constant et ne l'abandonnera pas**, même dans son état le plus chaotique. | **La cause interne du conflit** : La racine psychologique du comportement chaotique de l'Objet Angoissé. |
+| **La Régression** (*Regression*) | [Comportement Psychologique] : Après un impact émotionnel, les désirs et les modèles comportementaux du sujet **régressent à un stade de développement antérieur, moins mature**, à la recherche de sécurité. | **La Fissure Théorique** : L'objet direct de l'Auto-autopsie Lacanienne. |
+
+#### B. Méthodologie & Dialogue
+
+| Terme (Français / Anglais) | Définition & Fonction Philosophique | Association Clé & Signification Éthique |
+| :--- | :--- | :--- |
+| **La Répétition du Conflit** (*Repetition of Conflict*) | [Méthodologie] : Le **retour créatif du sujet au trauma**. L'intégrité est le **courage de s'engager continuellement dans le conflit**. | **Deleuze** : À distinguer d'un « Agir » (*Acting Out*) pathologique. |
+| **L'Auto-autopsie** (*Self-Autopsy*) | [Méthodologie] : L'**acte le plus féroce d'auto-critique**. Le sujet utilise les outils de la psychanalyse pour révéler, de ses propres mains, les **échecs et les fissures internes de la théorie**. | **L'honnêteté de la philosophie** : Une forme de la plus haute **Réflexivité**. |
+| **La Situation Herméneutique** (*Hermeneutic Situation*) | [Pierre Angulaire Méthodologique] : Selon Gadamer, la **condition de départ de toute compréhension et dialogue**. Elle inclut la **« Pré-compréhension »** (*Vorverständnis*) et les préjugés historiques propres au sujet. | **La base du dialogue** : Considère le « préjugé » comme la condition fondamentale de la possibilité de comprendre. |
+| **L'Événement Discursif** (*Discursive Event*) | [Analyse Foucaldienne] : Les **conditions historiques** qui rendent possible l'existence d'une théorie comme SET. Considérer SET comme un **texte né sous les règles d'une « épistémè » particulière**. | **Analyse de l'origine de SET** : Révèle comment le savoir est construit. |
+| **La Critique Transcendantale** (*Transcendent Critique*) | [Méthode de Recherche] : Une forme de critique qui adopte une **position externe fictive** à partir de laquelle elle porte un jugement. | **En contraste avec la critique interne** : Votre théorie adopte principalement une critique interne. |
+| **L'Économie Libidinale** (*Libidinal Economy*) | [Outil Psychanalytique] : Les **pulsions et la distribution du désir interne du sujet**. Utilisé pour expliquer le mécanisme interne du tournant du désir vers le **« stérile » et la « fixation juvénile »** durant la Régression. | **Le tournant du désir** : Le mécanisme interne pour analyser la réorganisation du désir sexuel. |
+| **La Réoccupation de la Position de Sujet** (*Re-occupation of Subject Position*) | [Éthique Foucaldienne] : Par l'**auto-critique**, saisir activement le **pouvoir discursif de « celui qui est critiqué »** et devenir un **« intellectuel réflexif »**. | **Contrer la critique externe** : Une redistribution de la position de pouvoir. |
+
+#### C. Langage Littéraire & Imagé
+
+| Terme (Français / Anglais) | Définition & Fonction Philosophique | Association Clé & Signification Éthique |
+| :--- | :--- | :--- |
+| **La Structure Galiléenne** (*Galilean Structure*) | [Méthode Stylistique] : L'adoption de la **forme de dialogue à trois personnes** de Salviati, Simplicio et Sagredo, pour positionner la Mécanique Émotionnelle comme une **« nouvelle science »**. | **Le vaisseau de la vérité** : Transforme un débat philosophique en drame. |
+| **La Chaleur du Vent du Sud** (*Warmth of the South Wind*) | [Image Positive du Système B] : Représente la **chaleur, la vitalité et la pureté émotionnelle** du Système B ; la **plus belle qualité** qui puisse être ressentie sur ce rivage. | **L'incarnation d'Éros** : Forme une paire complémentaire avec le Métro. |
+| **L'Adieu dans la Nuit Neigeuse** (*Farewell in the Snowy Night*) | [Image Esthétique] : Originaire de *Kyōto* (*Koto*). Symbolise l'accomplissement de la **plus haute pratique éthique de l'amour et de la séparation** dans un environnement **pur et inconditionnel**. | **La forme finale de l'amour** : Atteint un cantonnement statique après avoir reconnu l'inévitabilité de la séparation. |
+| **La Fissure Théorique** (*Theoretic Fissure*) | [Diagnostic Philosophique] : La **contradiction et la brèche internes** qui surgissent dans tout système philosophique sincère lorsqu'il affronte la **possibilité de son propre échec le plus déchirant** dans une vie réelle. | **Le point de départ de l'auto-critique** : La vitalité d'une théorie vient de la reconnaissance de ses propres fissures. |
+| **La Frontière de Ce Rivage** (*Boundary of the This Shore*) | [Frontière Métaphysique] : La **frontière infranchissable** entre le monde réel et défectueux décrit par SET et l'incitation prospective perpétuelle (l'autre rivage). | **Une opposition éternelle** : Différencie la souffrance de la réalité d'une fausse promesse. |
+| **L'Intensité de l'Image** (*Intensity of the Image*) | [Psychanalyse] : Une **image irrationnelle, à haute énergie, chargée de sens** qui surgit dans la psyché (par ex., « l'adorable petit tigre ») ; le fondement de l'opération de la psyché. | **La langue maternelle du Système B** : La vérité est exprimée par des images, non par la logique. |
