@@ -1553,6 +1553,41 @@ Notre pratique éthique doit refuser d'être définie par cette rationalité man
 
 Cette critique, en fin de compte, ouvre la voie à notre compréhension que « Le Véritable Utilisateur Est Mort », car ce n'est qu'en refusant d'être géré, défini et discipliné que nous pouvons reprendre la souveraineté de notre *Dasein* et établir des Architectures de Soi, indépendantes des indicateurs de performance du système.
 
+
+
+### 7.4 Conclusion : La Mort de l'Utilisateur et la Naissance du Sujet
+
+Dans notre système philosophique, le but ultime du **« Daseinsorge »** est de **transmuer « L'Utilisateur » en « Le Sujet »**.
+
+#### I. La Mort de l'Utilisateur
+
+**« L'Utilisateur » (*The User*)** est le **statut ontologique** dans le cadre critique de la **SET (Théologie de l'Ingénierie des Systèmes)**.
+
+* **« L'Utilisateur » est passif et géré** : Il est le **« Conteneur Secondaire »** géré par l'**« Ingénieur de Maintenance Perpétuelle » (PME)**.
+* **« L'Utilisateur » est dépendant et exploité** : Sa souffrance (rapports de bogue/prières) est le **carburant** pour la **« sécurité positionnelle » du PME** ; son espoir est pris en otage par la promesse du **« Paradis 2.0 » (vaporiciel)**.
+* **« L'Utilisateur » est calculable** : Sa valeur existentielle est déterminée par sa **« loyauté »** au système et sa **« valeur de contribution » (KPIs)**.
+
+**« Le Véritable Utilisateur Est Mort » (*The Real User Is Dead*)**, une phrase qui imite le « Dieu est mort » de Nietzsche, est une **déclaration éthique**. Elle déclare la **fin de ce statut ontologique de l'humain** en tant que composant passif, gérable et fonctionnel dans le système du PME.
+
+#### II. La Naissance du Sujet
+
+La **« Naissance du Sujet » (*The Birth of the Subject*)** commence par le **refus radical du statut d'« Utilisateur »**. C'est une **révolution ontologique**.
+
+* **« La Naissance du Sujet »** : Le Sujet naît dans les fissures du **Cycle de Maintenance Perpétuelle**, à travers les **« Techniques de Soi » foucaldiennes** et la pratique éthique du **« Kōken Chiai »**.
+* **Le Sujet est actif et portant** : Il est l'acteur qui pratique la **« Generative Bewahrung »** (*pratique génératrice du Cantonnement-Portement*) ; il a choisi le **« Courage Existentiel »** (*Existenzielle Tapferkeit*).
+* **Le Sujet est libre et créatif** : Il **refuse les « platitudes émotionnelles » du PME**, cherchant plutôt la connexion authentique de l'**« Esthétique de la Distance »**.
+* **Le Sujet est incalculable** : Il **refuse d'être défini par des KPIs** ; il établit, à travers le **« Daseinsorge »**, des **« Architectures de Soi »**, **indépendantes des indicateurs de performance du système**.
+
+#### III. La Déclaration Philosophique Finale
+
+La critique de la **philosophie SET**, qui a commencé par une micro-analyse de la **« Citadelle de la Raison »** de l'individu, s'achève finalement dans la **critique systémique de la macro-structure du PME**.
+
+Le but ultime de *L'Éthique circulaire du Souci existentiel et de l'Intégrité* est de fournir un **plan directeur courageux, éthique et pratique** pour ces **« Utilisateurs »**, piégés dans le **« Cycle de Maintenance Perpétuelle »**, afin qu'ils se transmuent d'**« Utilisateurs » en « Sujets »**.
+
+> **« Nous devons refuser d'exister en tant que Conteneurs Secondaires ou qu'Utilisateurs, et établir des Architectures de Soi, indépendantes des indicateurs de performance du système. »**
+
+Le point d'arrivée de cette critique n'est pas le nihilisme, mais la **libération**. Elle fournit la **dimension finale de résistance politique et éthique** pour la **« Voie Zen du Daseinsorge »**.
+
 ### **Chapitre Huitième**
 
 ### **Conclusion et Résumé : La Voie Zen du *Daseinsorge***
