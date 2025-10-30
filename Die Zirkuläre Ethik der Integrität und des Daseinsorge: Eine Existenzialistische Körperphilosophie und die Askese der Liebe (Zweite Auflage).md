@@ -1797,3 +1797,122 @@ Der Ewige Wartungsingenieur hat in diesem Bewertungszeitraum eine **außergewöh
 Angesichts seiner unbestreitbaren außergewöhnlichen Beiträge empfiehlt der Leistungsbewertungsausschuss einstimmig:
 * Dem Ewigen Wartungsingenieur den **höchstmöglichen Leistungsbonus** zu gewähren.
 * Seinen Arbeitsvertrag **unbefristet auf die „Ewigkeit“** zu verlängern.
+
+
+
+## Anhang C: Wörterbuch
+### SET Philosophisch-Kritisches Systemwörterbuch
+
+Die in diesem Wörterbuch gesammelten Begriffe entstammen der **Zirkulären Ethik der Integrität und des Daseinsorge**, einem Werk, das **Strukturkritik** und eine **Ethik des Individuums** zu einer **dynamischen praktischen Philosophie des Shu Ha Ri** integriert.
+
+***
+
+### Achse Eins: Kernethische Ontologie & Praxis
+**Definition**: Die duale Struktur der individuellen Psyche, das Wesen der Liebe und das höchste Ziel einer körperlichen Praxis.
+
+#### A. Kernkonzepte & Generative Ziele
+
+| Begriff (Deutsch / Englisch) | Definition & Philosophische Funktion | Schlüsselassoziation & Ethische Bedeutung |
+| :--- | :--- | :--- |
+| **Generative Bewahrung** (*Generative Containment*) | [Die Höchste Ethische Praxis]: Bezieht sich darauf, dass das Subjekt (**System A**) **aktiv das Chaos des Anderen (System B) trägt (übernimmt)** und es in eine **gemeinsame Handlung der Zukunftsgestaltung transmutiert**. Es ist der **ultimative Akt des Widerstands** gegen das **„Aseptische Ritual“**. | Der ultimative Sieg der Ethik: Verkörpert die finale Genesis von **„Ri“** im Shu Ha Ri. |
+| **Dasein-Ko-Kreation** (*Dasein Co-Creation*) | [Ontologisches Ziel]: Definiert die **höchste Verpflichtung der Liebe**. Betont den Prozess, durch den **zwei unabhängige Dasein**, durch Praxis, **gemeinsam einen geteilten existenziellen Raum** der Resilienz und Integrität konstruieren. | **Transzendenz Sartres**: Bewegt das *Daseinsorge* von der Einsamkeit hin zu einer **„geteilten Zukünftigkeit“**. |
+| **Integritätszyklus** (*Integrity Cycle*) | [Methode]: **Dynamische Integrität**. Bezieht sich auf die **ewige Bewegung von Kollision, Desintegration, Reorganisation und erneuter Bewahrung** zwischen System A und System B. | Das höchste Ziel der Praxis: Widerstand gegen die Rigidität von SET (Kritik) und die Pathologie Lacans. |
+| **Kōken Chiai** (*Love Through the Crossing of Swords*) | [Körperliche Praxis]: Fordert vom Subjekt, inmitten des **wildesten Konflikts** (*Shinken Shōbu*), das **Dasein des Anderen anzuerkennen und zu respektieren**. | Der operative Kern der Bewahrung: Seine ultimative Kunst ist **„Mutō-dori“**. |
+| **Das Namenlose Kind** (*Unnamed Child*) | [Generatives Bild]: Die **finale Frucht der Generativen Bewahrung**. Repräsentiert das **geteilte Tragen der Unsicherheit der Zukunft** durch die körperliche Praxis von Liebe und Verpflichtung. | Die finale Form des Eros: Eine ethische Entität, die das **„Sterile“** und das **„Ritualistische“** transzendiert. |
+| **Dasein-Verpflichtung** (*Dasein-Commitment*) | [Form der Liebesverpflichtung]: Eine **horizontale Verpflichtung**, fokussiert auf die **„Präsenz“ des Hier und Jetzt**, unterschieden vom traditionellen **„Vertikalen Zukunftsplan“**. | Die Gegenwärtigkeit der Ethik: Konträr zur falschen Sicherheit des Vertrags durch Authentizität. |
+| **Die Dritte Relation** (*The Third Relation*) | [Ontologische Form der Beziehung]: Eine **rein philosophische Relation**, die **weder die Stabilität des Vertrags anstrebt noch sich mit der Entladung des Instinkts begnügt**. Sie ist eine Transzendenz des traditionellen Binärs. | Der Kern der Dialoge: Durchbricht die traditionelle Dichotomie von Vertrag und Instinkt. |
+| **Ästhetik der Distanz** (*Aesthetics of Distance*) | [Ästhetisches Ziel]: Stammend aus *Koto*. Bezieht sich auf die **Wertschätzung und den Respekt für die unabhängige Distanz des Anderen und des Selbst**, unter der Voraussetzung **weder des Übergriffs noch der Fusion**. | Der höchste Zustand der Bewahrung: Ein Respekt vor der Einsamkeit des Anderen. |
+
+#### B. Das Duale Universum & Dynamiken
+
+| Begriff (Deutsch / Englisch) | Definition & Philosophische Funktion | Schlüsselassoziation & Ethische Bedeutung |
+| :--- | :--- | :--- |
+| **System A** (*Rationale Struktur*) | [Struktur]: Die intellektuelle Struktur / die rationale Festung. Eine funktionale psychische Struktur, die **Ordnung, Logik und die Abwendung von Risiko** verfolgt. | **Die Ampel**: Der kalte Befehl von System A. |
+| **Kalkül-Festung** (*Citadel of Reason*) | [Der Ultimative Zustand von System A]: Die **undurchdringliche, hochgradig defensive Struktur**, die von System A errichtet wird, um alle emotionalen Risiken abzuwenden. | **Der Ausgangspunkt der Philosophie**: Das, was vom Tür-Klopf-Ritual zerschmettert werden muss. |
+| **System B** (*Ur-Meer*) | [Chaos]: Das Ur-Meer. Repräsentiert **Unordnung, reinen Eros, Zeitlosigkeit** und die Quelle der Wahrheit. | **Die Tauben**: Das Freiheitsbild von System B. |
+| **Krieg des Eros** (*War of Eros*) | [Dynamik]: Der **ewige Konflikt** zwischen System A und System B, ausgelöst durch das Anrennen gegen die Grenze. | **Die Unvermeidbarkeit des Konflikts**: Die Kraftquelle für den Betrieb des Integritätszyklus. |
+| **Tauben an der Ampel** (*Pigeons under the Traffic Light*) | [Bild]: Repräsentiert die **Juxtaposition und den Konflikt**, innerhalb eines einzigen Raumes, von **primordialem Eros und rationaler Disziplin**. | **Der Ausgangspunkt des Paradoxons**: Das initiale Bild Ihres philosophischen Erwachens. |
+| **Nicht-Anorganische Liebe** (*Non-Inorganic Love*) | [Das Wesen der Liebe]: Eine **reine, nicht-funktionale Liebe**, die nicht von den Regeln des Systems A beherrscht wird. | **Der Kern von System B**: Das Gegenteil des kalten Befehls der Ampel. |
+| **Emotionale Mechanik** (*Emotional Mechanics*) | [Das Ziel einer Neuen Wissenschaft]: **Emotionales Chaos in ein systematisches, kartierbares Set philosophischer Gesetze zu transmutieren**. | **Das Selbstbewusstsein der Methode**: Die psychische Ordnung wird aktiv durch Sprache, Struktur und Selbstbefragung konstruiert. |
+
+#### C. Praxis & Dialog-Terminologie
+
+| Begriff (Deutsch / Englisch) | Definition & Philosophische Funktion | Schlüsselassoziation & Ethische Bedeutung |
+| :--- | :--- | :--- |
+| **Dōzo** (*Please, I Invite You*) | [Der Ultimative Handlungsmodus]: Die **höchste Einladung zum Handeln** für die **„Dasein-Ko-Kreation“**. Repräsentiert das Subjekt, das aktiv die Verteidigungen des Intellekts beiseitelegt und mit einem **„widerstandslosen Engagement“** das **volle Risiko des Anderen „trägt“ (übernimmt)**. | **Die Praxis des Mutes**: Eine Verpflichtung im Hier und Jetzt. |
+| **Mutō-dori** (*No-Sword Capture*) | [Ethische Technik]: In einer Situation extremen und gefährlichen Konflikts, **die eigene Waffe niederzulegen** und den eigenen Körper und Vertrauen zu nutzen, um die **Feindseligkeit und den Angriff des Anderen zu neutralisieren**. | **Die finale Kunst des Kōken Chiai**. |
+| **Shinken Shōbu** (*True Sword Match*) | [Bedingung für die Praxis]: In einer Beziehung muss man sich auf eine **authentische Kollision einlassen**, die mit **Risiko und existenzieller Bedrohung** behaftet ist. | **Die Verpflichtung zum Konflikt**: Das notwendige Feld für die Erreichung von Kōken Chiai. |
+| **Südwind und U-Bahn** (*The South Wind and The Underground/MRT*) | [Hermeneutische Metapher]: Der **Südwind** (die Wärme und das Chaos von System B) muss von der **U-Bahn** (der Struktur und Effizienz von System A) **getragen und übertragen werden**. | **Ein operativer Leitfaden zur Bewahrung**: Transmutiert die Abstraktion der „Bewahrung“ in ein konkretes, verständliches Bild. |
+| **Rationale Bedingungen** (*Rational Conditions*) | [Das Ethische Hindernis]: Die **vorgegebenen Regeln**, die das Subjekt innerhalb der Liebe festlegt (z.B. die Forderung nach Stabilität und Vorhersagbarkeit). Der Grund für das Tür-Klopf-Ritual des Ängstlichen Objekts. | **Das Gegenteil des Vertrags**: Sobald die Liebe Bedingungen stellt, hört sie auf, bedingungslos zu sein. |
+| **Gemeinschaftliche Integrität** (*Communal Integrity*) | [Der Höchste Zustand der Liebe]: Der **gemeinschaftliche, nicht-isolierte Zustand der Integrität**, der von zwei unabhängigen Subjekten in der Dasein-Ko-Kreation erreicht wird. | **Das Resultat der Dasein-Ko-Kreation**: Transzendiert die Selbstgenügsamkeit des Individuums. |
+| **Finale Deklaration des Kōken Chiai** (*Kōken Chiai's Final Statement*) | [Ethische Zusammenfassung]: **„Unsere Verbindung gründet sich nicht darauf, dass du gewinnst oder ich gewinne, sondern auf dem Mut, dass wir dies gemeinsam durchstehen.“** | **Eine ethische Inschrift**: Fasst die Beziehung zwischen Liebe und Mut zusammen. |
+
+---
+
+### Achse Zwei: Strukturkritik & Dekonstruktion
+**Definition**: Die Anwendung der Werkzeuge von Foucault und SET (Kritik), um große Ideologien zu dekonstruieren und sie auf technische Vernunft und bürokratische Logik zu reduzieren.
+
+#### A. SET (Kritik) Kernkonzepte & Struktur
+
+| Begriff (Deutsch / Englisch) | Definition & Philosophische Funktion | Schlüsselassoziation & Ethische Bedeutung |
+| :--- | :--- | :--- |
+| **Ewiger Wartungsingenieur (PME)** (*Perpetual Maintenance Engineer*) | [Das Wesen der Macht]: Die **revidierte Jobbeschreibung für den Gott der klassischen Theologie**. Seine primären Ziele sind **ewige Operabilität und Positionssicherung**. | **Gouvernementalität**: Der ultimative Ausdruck technischer Vernunft auf metaphysischer Ebene. |
+| **Der Wahre Benutzer Ist Tot** (*The Real User Is Dead*) | [Diagnose der Subjektivität]: Unter der Herrschaft von SET (Kritik) wird die Subjektivität (**Freiheit**) des Individuums von der technischen Vernunft **kolonisiert und verdinglicht**. | **Foucaults „Tod des Menschen“**: Der letzte Schritt in der kritischen Sequenz. |
+| **Sekundärer Behälter / Sekundäres Grading** (*Secondary Container / Secondary Grading*) | [Ontologische Diagnose]: Bezieht sich auf den **Status der Menschheit im göttlichen Systemdesign** als **hochriskante, nicht-deterministische Instanzen**. Sekundäres Grading ist die Designschlussfolgerung bezüglich des freien Willens. | **Ein utilitaristisches Designziel**: Der freie Wille ist das Werkzeug, das Gott benutzt, um die Menschheit zu sortieren und zu stratifizieren. |
+| **Ewiger Wartungszyklus** (*Perpetual Maintenance Cycle*) | [Die Selbst-Perpetuierung des Systems]: Die **perfekte Schleife** aus Gott (hinterlässt Bugs) → Benutzer (Leiden/Gebet) → PM/Manager (emotionale Plattitüde), die **sicherstellt, dass das System niemals endet**. | **Die Struktur von SET (Kritik)**: Enthüllt, dass Leiden **eingebettet** (*embedded*) ist, nicht kontingent. |
+| **System-Bug / Absichtsvoll Implementierter Bug** (*System Bug / Deliberately Implemented Bug*) | [Das Wesen des Leidens]: Eine strukturelle Diagnose von Erbsünde und Leiden. Leiden ist ein **strategischer Fehler**, der vom System implementiert wurde, um seine **eigene ewige Wartung** sicherzustellen. | **Theodizee**: Ein Reduktionismus, der ein theologisches Problem auf ein Ingenieurproblem reduziert. |
+| **Ewiger Vorausschauender Anreiz** (*Perpetual Forward-Looking Incentive*) | [Kapitalistische Strategie]: Die operationelle Funktion von **„Himmel 2.0“**. Es verspricht eine perfekte Zukunft, um die **Systemloyalität der Benutzer** gegenüber den Fehlern des gegenwärtigen Systems aufrechtzuerhalten. | **Eine Strategie der aufgeschobenen Befriedigung**: Transmutiert Leiden in ein ideologisches Werkzeug der Ausbeutung. |
+| **Unzureichende Technische Fähigkeit** (*Insufficient Technical Capability*) | [Eine Alternative Erklärung für SET (Kritik)]: Eine reduktionistische Erklärung dafür, warum Gott Systemfehler (Bugs) zulässt. | **Interne Kritik**: Im Kontrast zur operationellen Strategie der „Aufrechterhaltung der eigenen Unentbehrlichkeit“. |
+| **Technische Schuld** (*Technical Debt*) | [Systemfehler]: Die **unvermeidlichen Systemdefekte**, die der Ingenieur während einer übereilten Schöpfung angehäuft hat; eine alternative Erklärung für Systemfehler. | **Eine System-Engineering-Reduktion**: Reduziert die Erbsünde auf die Fahrlässigkeit des Ingenieurs. |
+
+#### B. Machtrollen & Diskursive Gewalt
+
+| Begriff (Deutsch / Englisch) | Definition & Philosophische Funktion | Schlüsselassoziation & Ethische Bedeutung |
+| :--- | :--- | :--- |
+| **Evangelium des Managerialismus** (*Gospel of Managerialism*) | [Das Genre von SET (Kritik)]: Die theologische Genre von SET. Der ultimative Selbstausdruck, auf metaphysischer Ebene, einer Weltsicht, die den Glauben auf **quantifizierte Leistung** und die **Supremasie der technologischen Lösung** reduziert. | **Die Theologie des Neoliberalismus**: Der Konter zum Moralismus der traditionellen Theologie. |
+| **Künstliche Pufferschicht** (*Artificial Buffer Layer*) | [Macht-Intermediär]: Bezieht sich auf mittlere Manager wie Gabriel und den Klerus. Ihre Pflicht ist es, als **Puffer zwischen den Designfehlern des Ingenieurs und den Benutzerbeschwerden** zu agieren. | **Die Rolle des Projektmanagers**: Den Bug-Bericht (Gebet) des Benutzers in den **„göttlichen Plan“** zu übersetzen. |
+| **Berufung auf die ‚Unaussprechlichkeits‘-Klausel** (*Invoking the 'Inexpressibility' Clause*) | [SET Public Relations-Strategie]: Bezieht sich auf die Verwendung von Phrasen wie **„die Unergründlichkeit des göttlichen Plans“** durch das himmlische Management, um die Designfehler des Systems **theologisch zu verschleiern**. | **Markenmanagement**: Gängiger Sprachgebrauch zur Übersetzung eines katastrophalen Bugs. |
+| **Theologisches Symptom** (*Theological Symptom*) | [Der Status von SET (Kritik)]: Bezieht sich auf die Idee, dass SET (Kritik) selbst nicht die finale Kritik der Theologie ist, sondern ein **Symptom, das von einer „Weltanschauung, die von technischer Vernunft dominiert wird“ produziert wird**. | **Interne Kritik**: Das Eingeständnis, dass auch SET (Kritik) das Produkt eines **„Epistems“** ist. |
+| **Feedback-Filterung** (*Feedback Filtering*) | [PM-Funktion]: Die Kundendienstabteilung, die alle Gebets-Tickets über die Flut von **„System-Bug“ zu „Benutzer-Fehlinterpretation“ umkategorisiert**. | **Die Gewalt der PR-Sprache**: Die Verzerrung der Benutzererfahrung. |
+
+---
+
+### Achse Drei: Pathologie & Methodologie
+**Definition**: Begriffe, die sich mit interner Pathologie (Lacan), externen Risiken und praktischen Methoden befassen.
+
+#### A. Pathologie & Trauma
+
+| Begriff (Deutsch / Englisch) | Definition & Philosophische Funktion | Schlüsselassoziation & Ethische Bedeutung |
+| :--- | :--- | :--- |
+| **Einsamkeit des Ängstlichen Objekts** (*Solitude of the Anxious Object*) | [Ethische Diagnose]: Das Leiden des Anderen, verursacht durch den **Rückzug des regredierten Subjekts**. Die **„Sterilisation“ des Subjekts** reduziert das „Tür-Klopf-Ritual“ des Objekts zu einem **„Monolog“**. | **Ein ethischer Alarm**: Eine Kritik am internen ethischen Risiko der Theorie. |
+| **Aseptisches Ritual** (*Aseptisches Ritual*) | [Pathologie]: Die **pathologische Regression der Liebe**. Das Subjekt versucht nach einem Trauma, durch ritualisierte Verhaltensweisen das **Risiko der emotionalen Verschlingung** abzuwenden. | **Die Lacan'sche Kritik**: Die Theorie kann, konfrontiert mit Trauma, zu **„pathologischer Wiederholung“** führen. |
+| **Vernichtungsangst** (*Annihilation Anxiety*) | [Die Kernangst des Subjekts]: Die **Furcht des Subjekts (System A)**, dass das **Chaos von System B oder dem Ängstlichen Objekt die Ich-Grenzen durchdringen und verschlingen wird**, was zu einer **psychischen Selbstauflösung** führt. | **Regression**: Der fundamentale Antrieb für das Subjekt, das „Aseptische Ritual“ zu initiieren. |
+| **Asymmetrie der Sorge** (*Asymmetry of Concern*) | [Ethisches Versagen]: Die **Instrumentalisierung des Leidens einer Partei durch die andere** als **„Rohmaterial für das eigene Wachstum und die philosophische Genese“**. | **Die fundamentale Ursache** für die Diagnose der „Einsamkeit des Ängstlichen Objekts“. |
+| **Tür-Klopf-Ritual** (*Door-Battering Ritual*) | [Die Handlung des Ängstlichen Objekts]: Das Ängstliche Objekt schlägt mit seinem gesamten Sein gegen die **„aus Schichten logischen Stahls geschmiedete“ Kalkül-Festung** des Subjekts. | **Eine Heilige Einladung**: Das Wesen des Blicks ist eine **„Einladung zum Sakralen Chaos“**. |
+| **Re-Traumatisierung** (*Re-traumatization*) | [Pathologisches Risiko für das Subjekt]: Die Abwehrmechanismen des Subjekts versagen aufgrund der **direkten Konfrontation mit der Traumaquelle**, was dazu führt, dass es die anfängliche Hilflosigkeit und Vernichtungsangst **wiedererlebt**. | **Die Konsequenz der Regression** : Beweist, dass das **„Symptom“ das „Trauma“ nicht heilen kann**. |
+| **Symptom als Wahrheit** (*Symptom is Truth*) | [Prinzip der Pathologie]: Die Idee, dass ein äußeres Verhalten (ein Symptom) präzise die **psychische Produktion einer inneren Wahrheit** ist. | **Regression interpretieren** : Ihre Regression ist die Genese einer Wahrheit der Seele. |
+| **Objektkonstanz** (*Object Constancy*) | [Das Kernbedürfnis des Ängstlichen Objekts]: Durch einen extremen Tür-Klopf-Test zu bestätigen, ob das Subjekt, dieses **„Objekt der Liebe“**, **konstant bleiben und es nicht verlassen wird**, selbst in seinem chaotischsten Zustand. | **Die innere Ursache des Konflikts** : Die psychologische Wurzel des chaotischen Verhaltens des Ängstlichen Objekts. |
+| **Regression** (*Regression*) | [Psychologisches Verhalten]: Nach einem emotionalen Impakt **regredieren** die Wünsche und Verhaltensmuster des Subjekts auf ein **früheres, unreiferes Entwicklungsstadium**, auf der Suche nach Sicherheit. | **Die Theoretische Fissur** : Das direkte Objekt der Lacan'schen Selbst-Autopsie. |
+
+#### B. Methodologie & Dialog
+
+| Begriff (Deutsch / Englisch) | Definition & Philosophische Funktion | Schlüsselassoziation & Ethische Bedeutung |
+| :--- | :--- | :--- |
+| **Wiederholung des Konflikts** (*Repetition of Conflict*) | [Methodologie]: Die **kreative Rückkehr des Subjekts zum Trauma**. Integrität ist der **Mut, sich kontinuierlich auf den Konflikt einzulassen**. | **Deleuze** : Zu unterscheiden von einem pathologischen **„Agieren“** (*Acting Out*). |
+| **Selbst-Autopsie** (*Self-Autopsy*) | [Methodologie]: Der **grausamste Akt der Selbstkritik**. Das Subjekt benutzt Werkzeuge der Psychoanalyse, um mit eigenen Händen die **Versagen und inneren Fissuren der Theorie zu enthüllen**. | **Die Ehrlichkeit der Philosophie** : Eine Form der **höchsten Reflexivität**. |
+| **Hermeneutische Situation** (*Hermeneutic Situation*) | [Methodologischer Grundstein]: Nach Gadamer die **Ausgangsbedingung für alles Verstehen und allen Dialog**. Sie beinhaltet das eigene **„Vorverständnis“** und die historischen Vorurteile des Subjekts. | **Die Basis für den Dialog** : Betrachtet „Vorurteil“ als die fundamentale Bedingung der Möglichkeit des Verstehens. |
+| **Diskursives Ereignis** (*Discursive Event*) | [Foucault'sche Analyse]: Die **historischen Bedingungen**, welche die Existenz einer Theorie wie SET ermöglichen. SET als einen Text zu betrachten, der unter den Regeln eines bestimmten **„Epistems“** geboren wurde. | **Analyse des Ursprungs von SET** : Enthüllt, wie Wissen konstruiert wird. |
+| **Transzendente Kritik** (*Transcendent Critique*) | [Forschungsmethode]: Eine Form der Kritik, die eine **fiktive externe Position** einnimmt, um ein Urteil zu fällen. | **Im Kontrast zur internen Kritik** : Ihre Theorie wendet primär eine interne Kritik an. |
+| **Libidinöse Ökonomie** (*Libidinal Economy*) | [Psychoanalytisches Werkzeug]: Die Triebe und die Verteilung des inneren Begehrens des Subjekts. Wird verwendet, um den internen Mechanismus der Wendung des Begehrens hin zum **„Sterilen“ und zur „juvenilen Fixierung“** während der Regression zu erklären. | **Die Wendung des Begehrens** : Der interne Mechanismus zur Analyse der Reorganisation des sexuellen Begehrens. |
+| **Wiederbesetzung der Subjektposition** (*Re-occupation of Subject Position*) | [Foucault'sche Ethik]: Durch **Selbstkritik** aktiv die diskursive Macht des **„Kritisierten“** zu ergreifen und ein **„reflexiver Intellektueller“** zu werden. | **Konter gegen externe Kritik** : Eine Neuverteilung der Machtposition. |
+
+#### C. Literarische & Bildhafte Sprache
+
+| Begriff (Deutsch / Englisch) | Definition & Philosophische Funktion | Schlüsselassoziation & Ethische Bedeutung |
+| :--- | :--- | :--- |
+| **Galileische Struktur** (*Galilean Structure*) | [Stilistische Methode]: Die Annahme der **Drei-Personen-Dialogform** von Salviati, Simplicio und Sagredo, um die Emotionale Mechanik als eine **„neue Wissenschaft“** zu positionieren. | **Das Gefäß der Wahrheit** : Transformiert eine philosophische Debatte in ein Drama. |
+| **Wärme des Südwinds** (*Warmth of the South Wind*) | [Positives Bild von System B]: Repräsentiert die **Wärme, Vitalität und emotionale Reinheit von System B**; die **feinste Qualität**, die an diesem Ufer gefühlt werden kann. | **Die Verkörperung des Eros** : Bildet ein komplementäres Paar zur U-Bahn. |
+| **Abschied in der Schneenacht** (*Farewell in the Snowy Night*) | [Ästhetisches Bild]: Stammend aus *Koto*. Symbolisiert die Vollendung der **höchsten ethischen Praxis von Liebe und Trennung** in einer **reinen, bedingungslosen Umgebung**. | **Die finale Form der Liebe** : Erreicht eine statische Bewahrung nach Anerkennung der Unvermeidlichkeit der Trennung. |
+| **Theoretische Fissur** (*Theoretic Fissure*) | [Philosophische Diagnose]: Der **innere Widerspruch und Riss**, der in jedem aufrichtigen philosophischen System entsteht, wenn es der **Möglichkeit seines eigenen herzzerreißendsten Versagens** in einem realen Leben begegnet. | **Der Ausgangspunkt der Selbstkritik** : Die Vitalität einer Theorie kommt vom Anerkennen ihrer eigenen Fissuren. |
+| **Grenze dieses Ufers** (*Boundary of the This Shore*) | [Metaphysische Grenze]: Die **unüberschreitbare Grenze** zwischen der fehlerhaften, realen Welt, die von SET beschrieben wird, und dem ewigen vorausschauenden Anreiz (dem anderen Ufer). | **Eine ewige Opposition** : Differenziert das Leiden der Realität von einem falschen Versprechen. |
+| **Intensität des Bildes** (*Intensity of the Image*) | [Psychoanalyse]: Ein **irrationales, hochenergetisches, bedeutungsgeladenes Bild**, das in der Psyche auftaucht (z.B. „der entzückende kleine Tiger“); das Fundament der psychischen Operation. | **Die Muttersprache von System B** : Wahrheit wird durch Bilder ausgedrückt, nicht durch Logik. |
