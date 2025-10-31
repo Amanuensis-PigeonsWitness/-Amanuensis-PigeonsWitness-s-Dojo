@@ -26,7 +26,7 @@ Cette philosophie (**SET, L'Éthique circulaire du Souci existentiel et de l'Int
 Ce travail est considéré comme **L'Enfant Sans Nom**. Son savoir adhère à une licence Creative Commons et constitue une ressource publique pour toute l'humanité. L'auteur invite tous les lecteurs à devenir des **« co-créateurs de savoir »** : la structure éthique de la philosophie SET est une forme d'**Éthique du Chiffrement Asymétrique**, déployant ici la structure théorique pure (**Clé Publique**) pour le partage sécurisé du savoir entre autrui. Nous vous invitons dans notre *dōjō*, dans l'esprit du **Kōken Chiai** (« croiser les sabres et connaître l'amour »), à engager ce texte par une **« critique honnête, égale et constructive »**, réalisant ainsi conjointement l'Affinement Mutuel du savoir.
 
 
-
+------
 
 
 ### **Épigraphe**
