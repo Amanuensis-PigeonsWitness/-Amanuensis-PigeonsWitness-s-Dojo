@@ -1,6 +1,6 @@
 ## 『此在（しざい）の関心（Daseinsorge）とインテグリティの循環倫理学：ある実存主義的身体哲学と愛の修行』 （第三版）
 
-## Amanuensis: Pigeons Witness
+Amanuensis: Pigeons Witness
 
 
 ### SET 哲学手稿 — 倫理と方法論に関する宣言
