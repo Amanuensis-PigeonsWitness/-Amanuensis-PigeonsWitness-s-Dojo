@@ -24,7 +24,7 @@ This work is regarded as The Unnamed Child. Its knowledge adheres to a Creative 
 
 
 
-
+--------------
 
 *\<Love's Dawn Journey, and the Lingering Heart\>*
 
