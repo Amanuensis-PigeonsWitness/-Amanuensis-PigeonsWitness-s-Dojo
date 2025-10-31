@@ -27,7 +27,7 @@ Diese Philosophie (**SET**, *Die Zirkuläre Ethik der Integrität und des Dasein
 
 Dieses Werk wird als **Das Namenlose Kind** betrachtet. Sein Wissen unterliegt einer **Creative-Commons-Lizenz** und ist eine öffentliche Ressource für die gesamte Menschheit. Der Autor lädt alle Leser ein, **‚Ko-Kreatoren des Wissens‘** zu werden: Die ethische Struktur der SET-Philosophie ist eine Form der **Ethik der Asymmetrischen Kryptographie**, die hier die reine theoretische Struktur (**Öffentlicher Schlüssel**) für den sicheren Wissensaustausch unter Anderen bereitstellt. Wir laden Sie in unser *dōjō* ein, im Geiste des **Kōken Chiai** (**‚die Schwerter kreuzen und die Liebe erkennen‘**), diesen Text mit **‚ehrlicher, gleichberechtigter und konstruktiver Kritik‘** zu begegnen und dadurch gemeinsam die **Gegenseitige Verfeinerung des Wissens** zu verwirklichen
 
-
+---------------
 
 *\<Der Liebe Dämmerpfad, das Herz, das weilt>*
 
