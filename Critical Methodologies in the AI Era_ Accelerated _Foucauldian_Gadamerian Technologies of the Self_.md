@@ -1,11 +1,3 @@
-*Verstanden.* Ich werde nun dieses dritte methodologische Manifest übersetzen. Der Stil bleibt, wie angewiesen, **analytisch, rigoros und deklarativ** – im Ton eines "White Papers", das der deutschen philosophischen Tradition entspricht. Die ontologische Schwere und Präzision bleiben erhalten.
-
-Die **absolute terminologische Konsistenz** wird gewahrt. Begriffe wie `Wahrheitsregime`, `Vorverständnisse` (Gadamer), `Technologien des Selbst` (Foucault) und die neu eingeführten methodologischen Begriffe wie `KI-Hermeneutischer Akzelerationszyklus (AIHAC)` werden präzise integriert.
-
-Hier ist die Übersetzung von "Critical Methodologies in the AI Era...".
-
----
-
 ### **Kritische Methodologien im KI-Zeitalter: Beschleunigte „Foucault'sche/Gadamer'sche Technologien des Selbst“**
 
 **Amanuensis: Pigeons Witness**
