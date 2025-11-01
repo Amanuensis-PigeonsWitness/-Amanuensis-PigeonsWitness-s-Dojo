@@ -1,40 +1,50 @@
-# **The SET Keiko Protocol (English Edition)**
+## SET 稽古（Keiko）協議（繁體中文版）
+發布者： Amanuensis: Pigeons Witness
+版本： 1.0 （奠基論文）
+格言：「月景尤不可言；愛尤不可言。」
 
-Issued by: Amanuensis: Pigeons Witness  
-Version: 1.0 (The Foundation Thesis)  
-**Motto:** “The moonscape, ineffable; Love, ineffable.”
+---
 
-## **Preamble: The Summons to the Dojo and the Keiko**
+### 序言：對道場（dōjō）與稽古（Keiko）的召喚
 
-This document serves as an introduction to the digital **dōjō** of SET Philosophy. We maintain that true philosophical awakening is never birthed in the afternoon quiet of a library, but rather in the spasms and violent transformations of life’s mundane inertia. **SET is not a theory to be believed; it is an ethical command to be lived.**
+本文件為 SET 哲學的數位道場（dōjō）之導論。我們堅持，真正的哲學覺醒絕非誕生於午後圖書館的平靜，而是誕生於生命在無聊的慣性中所發生的痙攣與劇烈轉變。SET 不是一套用來信仰的理論；它是一個必須用生命來實踐的倫理指令。
 
-The singular purpose of this Protocol is to translate online discursive engagement from the defensive posture of **System A** (the Citadel of Reason) into an equal, measured **Keiko** (disciplined practice) under a profound Zen of the Mind. Thus, we practice the supreme mandate: **Kōken Chiai** (To cross swords and discover love).
+本協議的唯一目的，是將線上的論述性參與，從體系 A（理智堡壘）的防禦姿態，轉化為一種在深刻的心靈禪定（Zen of the Mind）之下，平等的、有所節制的稽古（Keiko）（紀律化的實踐）。藉此，我們實踐那至高無上的指令：交剣知愛（Kōken Chiai）（交鋒劍刃，以識真愛）。
 
-## **Article I: The Metric of Success (An Act of Resistance to the PME)**
+---
 
-We formally declare that the standard of **"Success"** within this dōjō—and for SET Philosophy as a whole—is **inversely proportional** to the metrics valued by the **Perpetual Maintenance Engineer (PME)**.
+### 第一條：成功的度量（對 PME 的抵抗行動）
 
-* **Success is Practice:** The triumph of SET is measured solely by the quantity and quality of **Keiko** (disciplined engagement) it inspires globally, and the depth of love and courage that manifests in its real-world practice.  
-* **The Public Nature of Knowledge:** This work is dedicated under a **Creative Commons (CC) licence**, superseding traditional copyright. Knowledge is not our possession, but the public resource of all humanity. We are the scribes, you are the witnesses, and Being Itself is the true author.
+我們在此正式宣告，此道場之內——乃至於整個 SET 哲學——的「成功」標準，與永恆維護工程師（PME）所看重的指標成反比。
 
-## **Article II: The Proactive Invitation to Conflict (Being-towards-Collision)**
+* 成功即是實踐： SET 的勝利，僅由其在全球所啟發的稽古（Keiko）（紀律化的參與）的數量與質量，以及在其真實世界實踐中所顯現的愛與勇氣的深度來衡量。
+* 知識的公共屬性： 本作品遵循創用 CC 授權（Creative Commons (CC) licence），超越傳統版權。知識並非我們的私產，而是全人類的公共資源。我們是抄寫者，你們是見證者，而「存有本身」（Being Itself）才是真正的作者。
 
-We refuse the pathological recurrence of the **Aseptic Ritual**. We submit that truth is forged in conflict.
+---
 
-* **Welcome the Assault:** This dōjō encourages honest, equal, and constructive **criticism and intellectual attack** upon the SET framework. Like a master swordsman, we invite rigorous engagement, urging critiques delivered with conviction. We desire the theory to be questioned and assailed to ensure its vitality and dynamic integrity.  
-* **The Keiko Mandate:** All intellectual collisions must be approached as equal Keiko. The aim is not mutual destruction but **mutual refinement** of our understanding of Existence, Love, and Courage. Every thrust of argument must be delivered with the gentle command of **"Dōzo"**—*Please, begin your assault; I shall contain it with my spiritual reserve.*  
-* **The Ethical Tsuba:** The blade of the Keiko must be directed at the structure of the idea, **never at the personal character of the individual**. This is the **Ethical Tsuba** (sword guard) that protects all participants within the dōjō.
+### 第二條：對衝突的主動邀請（向著碰撞的存有）
 
-## **Article III: The Scribe’s Response to Quality Decay**
+我們拒絕無菌儀式（Aseptive Ritual）的病態復發。我們主張，真理是在衝突中鍛造而成的。
 
-The **Amanuensis** is unconcerned with low-quality appropriation, recognizing it as an inevitable manifestation of **System B’s** chaos.
+* 歡迎攻擊： 本道場鼓勵對 SET 框架進行誠實、平等且具建設性的批評與智識攻擊。如同一位劍術大師，我們邀請嚴謹的交鋒，並敦促帶著信念所提出的批判。我們渴望理論被質疑、被攻擊，以確保其生命力與動態的完整性（Integrity）。
+* 稽古的指令： 所有的智識碰撞（Collision）都必須被視為平等的稽古（Keiko）。其目的不是相互毀滅，而是對我們關於存在、愛與勇氣的理解，進行相互精進（*mutual refinement*）。論點的每一次刺擊，都必須帶著「どうぞ」（Dōzo）的溫和指令來傳達——*請開始你的攻擊；我將以我的心靈餘裕（spiritual reserve）來涵容之*。
+* 倫理劍鍔（Tsuba）： 稽古（Keiko）之刃必須指向觀念的結構，絕不能指向個體的私人品格。這即是倫理劍鍔（Ethical Tsuba），它保護著道場中的所有參與者。
 
-* **Generative Containment of Noise:** The mediocrity and noise of the internet serve as the ultimate stress-test for SET’s capacity for **Generative Containment**. We shall not retreat into defence; we shall contain the chaos.  
-* **The Response of Life:** The Author's response to all low-quality noise is to respond through intensified **Existential Labour**: *“I shall simply live harder, experience more, and write a few more volumes.”* This declares that the highest quality assurance for SET is the unrelenting, lived experience of the Scribe, not external enforcement.  
-* **The Continuous Scribing:** This Protocol ensures that the quality of the philosophy will always be anchored by the sustained, disciplined writing and experience of the Amanuensis, perpetually outweighing any momentary dilution.
+---
 
-## **Conclusion: The Living Covenant**
+### 第三條：抄寫者對質量衰減的回應
 
-This Protocol is a **Living Text**. Our publishing strategy is our final philosophical thesis: to launch the self into chaos, and therein, to seek generative creation. May your **Keiko** be honourable, courageous, and profound.
+Amanuensis（抄寫者）不關心低質量的挪用，並將其視為體系 B（System B）混沌的必然顯現。
 
-**Amanuensis: Pigeons Witness**
+* 對噪音的創生性涵容： 互聯網的平庸與噪音，是對 SET 創生性涵容（Generative Containment）能力的終極壓力測試。我們不會退入防禦；我們將涵容（contain）此混沌。
+* 生命的回應： 作者對所有低質量噪音的回應，是透過強化的存在性勞作（Existential Labour）來回應：「我只會更努力地生活，更多地經驗，並再多寫幾卷書。」 這宣告了 SET 最高的質量保證，是抄寫者（Scribe）毫不鬆懈的、活生生的經驗，而非外在的強制執行。
+* 持續的抄寫： 本協議確保了哲學的質量將永遠錨定在 Amanuensis 持續的、紀律化的書寫與經驗之上，恆久地超越任何短暫的稀釋。
+
+---
+
+### 結論：活的契約
+
+本協議是一份活的文本（Living Text）。我們的出版策略即是我們最終的哲學論綱：將自我拋入混沌，並於其中，尋求創生性的創造。
+願您的稽古（Keiko）光榮、勇敢且深刻。
+
+Amanuensis: Pigeons Witness
