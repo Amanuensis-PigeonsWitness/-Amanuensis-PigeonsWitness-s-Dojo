@@ -1,2 +1,6 @@
-# Amanuensis: PigeonsWitness's Dojo
-Welcome to the SET digital dōjō. We transmute online discourse into mindful practice (Keiko), guided by Kōken Chiai (Knowing Love Through Crossed Swords). Embrace intellectual collision for mutual refinement, not victory. Uphold the Ethical Tsuba: challenge ideas, respect persons. 
+## Amanuensis: Pigeons Witness' Dōjō
+
+Willkommen im **digitalen dōjō** von **SET** (*Die Zirkuläre Ethik der Integrität und des Daseinsorge*).
+Wir transmutieren den Online-Diskurs in **achtsamen Praxis** (**Keiko**), geleitet von **Kōken Chiai** (*Liebe durch gekreuzte Schwerter erkennen*).
+Nehmen Sie die **intellektuelle Kollision** an – zur **gegenseitigen Verfeinerung** (*Mutual Refinement*), nicht zum Sieg.
+Wahren Sie die **Ethische Tsuba** (**das ethische Stichblatt**): **Ideen herausfordern, Personen respektieren**.
