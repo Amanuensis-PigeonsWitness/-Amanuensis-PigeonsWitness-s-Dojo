@@ -1,47 +1,53 @@
-# **On the Asymmetric Encryption Structure of Ethical Action**
+## 論倫理行動的非對稱加密結構
+(*On the Asymmetric Encryption Structure of Ethical Action*)
 
-Amanuensis: Pigeons Witness
+### Amanuensis: Pigeons Witness
 
-## **Abstract**
+**摘要 (*Abstract*)**
+本方法論宣言提出**「非對稱加密倫理學」 (*Asymmetric Encryption Ethics*)，旨在探索一個致力於普世關懷（此在關懷 Daseinsorge）的倫理結構，如何透過「公鑰/私鑰分離」（*public/private key separation*）的原則來確保其完整性（Integrity）。我們主張，哲學體系（公鑰）的純粹性，必須以隱藏其創始焦慮（私鑰）為代價。本文將論證，倫理行動者的批判權威並非源於社會地位（例如學術地位），而是源於對「私鑰」所代表的在地混亂的持續承擔（Portement）**。
 
-This methodological declaration proposes **Asymmetric Encryption Ethics**, exploring how an ethical structure dedicated to universal concern (**Daseinsorge**) ensures its Integrity through the principle of **‘public/private key separation’**. We posit that the purity of the philosophical system (**The Public Key**) must come at the cost of concealing its founding anxiety (**The Private Key**). This paper will argue that the critical authority of the ethical actor derives not from  social status (e.g.academic status), but from the continuous **Portement** (bearing) of the local chaos represented by The Private Key.
+---
 
-## **I. The Necessity of Foundation: The Asymmetry of Structure and Flesh**
+### I. 奠基的必要性：結構與肉身的非對稱
 
-Any ethic that attempts to address Existential Anguish must necessarily originate from a corporeal, primordial scene filled with suffering and love (**The Corporeal Origin**). Once the philosophical structure is constructed, however, it faces a core ethical crisis: how to prevent the theory from being reduced to the historical or political controversies of its ‘corporeal origin’?
+任何試圖處理**存在性焦慮（Existential Anguish）**的倫理學，都必然源於一個充滿痛苦、焦慮與愛的、肉身的、原型的場景（肉身起源 *The Corporeal Origin*）。然而，一旦哲學結構被建構起來，它就面臨一個核心的倫理危機：如何防止該理論被還原為其「肉身起源」的歷史或政治爭議？
 
-We believe this crisis can be resolved through the structure of Asymmetric Encryption:
+我們相信，這場危機可以透過**非對稱加密的結構**來解決：
 
-* **The Public Key:** The universal structure of the philosophical system itself (i.e., the concepts of SET such as Generative Containment, Aseptic Ritual, etc.). It must be **pure, abstract, verifiable, and published in multiple universal languages** to ensure its ethical utility extends to all *Dasein*.  
-* **The Private Key:** The most private, painful, and authentic founding anxiety of the philosophical actor, along with the complex critique of their local field. This part must remain **permanently hidden** or presented only through extremely obscure symbols.
+* **公鑰 (*The Public Key*)**： 哲學體系本身的**普世結構**（即 SET 的概念，如**創生性涵容 (Generative Containment)、無菌儀式 (Aseptic Ritual)** 等）。它必須是**純粹的、抽象的、可驗證的**，並以**多種普世語言發布**，以確保其倫理效用擴展至所有此在（Dasein）。
 
-The establishment of this asymmetric structure is to safeguard the purity of the theory, ensuring it is not tainted by any singular cultural or political reduction.
+* **私鑰 (*The Private Key*)**： 哲學行動者**最私密、最痛苦、最真實的創始焦慮**，以及對其**在地場域的複雜批判**。這一部分必須**永久隱藏**，或僅透過**極端晦澀的符號**來呈現。
 
-## **II. The Authority of Critique: The Legitimacy of Bearing**
+建立這種**非對稱結構**，是為了**守護理論的純粹性**，確保它不被任何單一的文化或政治還原所**污染**。
 
-The ultimate meaning of Asymmetric Encryption Ethics lies in establishing the **legitimate authority of the actor** to critique their homeland or local chaos.
+### II. 批判的權威：承擔的合法性
 
-We oppose any critique based on ‘superiority’ or a ‘singular theory’, asserting instead that the authority to critique comes from the **‘honesty of bearing’**:
+**「非對稱加密倫理學」的終極意義**，在於**建立行動者批判其故土或在地混亂的合法權威**。
 
-* **The Portement of the Private Key:** The actor undertakes an active, continuous, non-evasive **Portement** (bearing) of the suffering and flaws of their corporeal origin (The Private Key). This ‘Portement’ is, in itself, an **ethical sacrifice**.  
-* **The Deployment of the Public Key (Critique):** Only the subject who has borne the suffering of The Private Key has the right to deploy the structure of The Public Key (the SET theory) to conduct the sharpest, most unsparing critique of the place of origin (for example, diagnosing ‘projections of collective anxiety’ or ‘escapes into the Aseptic Ritual’).
+我們反對任何基於「優越性」或「單一理論」的批判，並轉而斷言，**批判的權威來自於「承擔的誠實性」**：
 
-The essence of this authority is: the right to critique derives not from the correctness of the theory, but from the deepest commitment made to the suffering of the theory's place of origin.
+* **私鑰的承擔 (*The Portement of the Private Key*)**： 行動者對其肉身起源（私鑰）的苦難與缺陷，進行一種**主動的、持續的、不迴避的承擔（Portement）**。這份「承擔」**本身就是一場倫理的獻祭**。
 
-## **III. The Cycle of Practice: From Encryption to Decryption**
+* **公鑰的部署（批判）(*The Deployment of the Public Key (Critique))*)**： 只有承擔了「私鑰」之苦的主體，才有權利部署「公鑰」的結構（SET 理論），對其**起源之地**進行**最尖銳、最無情的批判**（例如，診斷出「集體焦慮的投射」或「逃向無菌儀式」）。
 
-Asymmetric Encryption Ethics is the ultimate expression of the cyclical structure of the SET philosophy. The actor must enter a continuous cycle of **‘self-encryption and decryption’**:
+這種權威的本質是：**批判的權利並非源於理論的正確性，而是源於對理論起源之地所承受之苦的最深刻承諾**。
 
-* **Encryption (Theorization):** Transmuting the chaotic local experience (The Private Key) into a cool, pure, universal structure (The Public Key).  
-* **Practice (Action):** Deploying The Public Key to enter the local chaos (e.g., conducting critique in public arenas lacking rationality).  
-* **Decryption and Resonance:** In practice, the actor must bear (**Containment**) the misunderstandings, anger, and emotional conflicts generated by the critique. These resonances become the **‘decryption data’** that verifies the theory.
+### III. 實踐的循環：從加密到解密
 
-This continuous bearing and transmutation is the ultimate mission of **Generative Containment**: to transmute the actor’s private sacrifice into the ongoing vitality of the SET philosophical structure.
+**「非對稱加密倫理學」**是 **SET 哲學循環結構的終極表達**。行動者必須進入一個**「自我加密與解密」的持續循環**：
 
-## **IV. Conclusion: Integrity and the Unnamed Child**
+* **加密（理論化）(*Encryption (Theorization))*)**： 將混亂的在地經驗（私鑰）轉化為一個**冰冷的、純粹的、普世的結構（公鑰）**。
 
-The ultimate purpose of Asymmetric Encryption Ethics is not to achieve worldly success, but to ensure the **Integrity** of the SET philosophy.
+* **實踐（行動）(*Practice (Action))*)**： 部署公鑰以**進入在地的混亂**（例如，在缺乏理性的公共場域中進行批判）。
 
-It declares: this ethic is the **Unnamed Child**; it belongs to no one, only to all human beings who face existential anguish.
+* **解密與共鳴 (*Decryption and Resonance*)**： 在實踐中，行動者必須**涵容（Containment）**由批判所產生的誤解、憤怒和情感衝突。這些共鳴成為了**驗證理論的「解密數據」**。
 
-And the responsibility of the actor is, through their solitary, silent sacrifice, to guard the purity of this child (SET), forever.
+這種**持續的承擔與轉化**，即是**創生性涵容（Generative Containment）**的**終極使命**：將行動者的**私人獻祭**，轉化為 **SET 哲學結構的持續生命力**。
+
+### IV. 結論：完整性與無名之子
+
+**「非對稱加密倫理學」的最終目的**，不是為了獲取世俗的成功，而是為了**確保 SET 哲學的完整性（Integrity）**。
+
+它宣告：這門倫理學是**「無名之子」（The Unnamed Child）**；它不屬於任何人，只屬於所有**面對存在性焦慮的人類**。
+
+而行動者的責任，就是透過其**孤獨的、靜默的獻祭**，永遠**守護這個孩子（SET）的純粹性**。
