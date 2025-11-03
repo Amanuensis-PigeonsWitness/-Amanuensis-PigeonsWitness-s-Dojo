@@ -1812,7 +1812,94 @@ Angesichts seiner unbestreitbaren außergewöhnlichen Beiträge empfiehlt der Le
 * Dem Ewigen Wartungsingenieur den **höchstmöglichen Leistungsbonus** zu gewähren.
 * Seinen Arbeitsvertrag **unbefristet auf die „Ewigkeit“** zu verlängern.
 
+## Anhang B. Stück zur Auswahl 2
+### Das Ministerium der Göttlichen Wartung
+#### Eine Tragödie in einem Akt und vier Bildern
 
+**Dramatis Personae**
+
+* **DER INGENIEUR (Gott)**: Chefarchitekt und **Ewiger Wartungsingenieur (PME)**. Der ultimative **himmlische mittlere Manager**. Überarbeitet, ständig um seine eigene **„Positionssicherung“** besorgt, spricht er mit der erschöpften, zynischen Miene eines leitenden Softwareentwicklers, der weiß, dass sein Produkt auf einem Berg von **technischer Schuld** basiert. Seine Hauptmotivation ist nicht Allmacht, sondern **„ewige Operabilität“** und die Vermeidung eines vollständigen Systemrückrufs.
+* **GABRIEL (Erzengel, Leiter für Öffentlichkeitsarbeit und Benutzerbeziehungen)**: Der **Sir Humphrey Appleby des Empyreums**. Eloquent und ein **Großmeister der Verschleierung**. Er ist die **Apotheose des Projektmanagers**, dessen Funktion es ist, als **„künstliche Pufferschicht“** zwischen den Designfehlern des Ingenieurs und den Benutzerbeschwerden zu agieren. Er übersetzt katastrophale Bugs in „unergründliche Pläne“ und betrachtet **Theologie als eine Form von Markenmanagement**.
+* **MICHAEL (Erzengel, Leiter für Sicherheit und Qualitätssicherung)**: Ein unverblümter, buchstabentreuer **Sicherheitsbürokrat**. Er betrachtet das **„Freier Wille“-Modul** als katastrophale **Hochrisiko-Sicherheitslücke** und repräsentiert das alte **„monarchische Macht“-Modell**.
+* **CHERYL (Cherub, Kundensupport der ersten Ebene)**: Eine junge, aufrichtige und katastrophal gestresste Mitarbeiterin der Gebets-Hotline. Sie repräsentiert die **entfremdete „digitale Arbeit“** des himmlischen Systems, beauftragt, Benutzerfeedback (**„Bug-Berichte“**) zu extrahieren, während sie im Gegenzug nur kostengünstigen **„emotionalen Wert“** liefert.
+
+***
+
+### AKT I: DER HIMMLISCHE KONFERENZRAUM
+
+**SZENE**: Ein minimalistischer, steriler und eisig kalter Besprechungsraum in den Wolken. KPIs wie „Benutzer-Glaubens-Index“ stürzen ab.
+
+**(Das Stück beginnt.)**
+
+**GABRIEL**: (Geschmeidig) Guten Morgen, allerseits. Die Daten auf dem Bildschirm mögen auf den ersten Blick... herausfordernd erscheinen. Ich ziehe es jedoch vor, sie als eine **„strategische Neukalibrierungsmöglichkeit“** und als **„Stresstest“** unserer Kernbotschaft zu sehen.
+
+**MICHAEL**: (unterbricht ihn schroff) Engagiert? Sie reichen kollektiv einen Systemabsturzbericht ein! Das Problem ist seit Anbeginn dasselbe: das **„Freier Wille“-Modul**. Ich sage es noch einmal: Diese **„nicht-deterministische“ Funktionalität** war vom ersten Tag an ein **Designfehler**.
+
+**DER INGENIEUR**: (reibt sich die Schläfen) Ich weiß nur, dass Gebetsanfragen zu diesem neuen Bug die Server überfluten. Unsere **technische Schuld** hat die Stratosphäre erreicht. Das wird schwerwiegende Auswirkungen auf meine **Leistungsbeurteilung** haben. Mein **„Ewige Wartung“-Vertrag** basiert auf der **„ewigen Operabilität“** des Systems!
+
+**GABRIEL**: Ingenieur, bitte. Der Rückgang der Benutzererfahrung ist im Kern ein Problem des **Narrativ-Managements**, kein ingenieurtechnisches.
+
+**MICHAEL**: Unsinn! Die Lösung ist einfach: einen obligatorischen **„Göttliche Vergeltung“-Patch** herausgeben und alle infizierten **„Sekundären Behälter“** säubern.
+
+**DER INGENIEUR**: Eine totale Säuberung? Nein, die **Benutzerbindungszahlen** würden ins Bodenlose stürzen.
+
+**GABRIEL**: (Ein wissendes Lächeln) Michael, Ihr Vorschlag ist typisch für das alte Paradigma der **„monarchischen Macht“** – grob und kostenineffizient. Wir brauchen eine **elegantere Lösung**. Wir sollten aggressiver für **„Himmel 2.0“** werben.
+
+**MICHAEL**: (Verächtlich) **„Himmel 2.0“**? Das ist **Vaporware**!
+
+**GABRIEL**: (Unerschütterlich) Michael, Ihnen fehlt die Vision. **„Himmel 2.0“ ist kein Produkt; es ist ein Versprechen**. Es ist eine **„Strategie der aufgeschobenen Befriedigung“**. Wir müssen die Benutzer verstehen lassen, dass alle „bekannten Bugs“ in Version 1.0 in der Tat ein **notwendiger Prozess** sind, um die Perfektion von Version 2.0 sicherzustellen.
+
+**DER INGENIEUR**: (Nachdenklich) Hmm… Leiden umdeklarieren als… einen bezahlten **Beta-Test**? Das klingt gut. Es lässt es weniger wie meinen Fehler klingen und mehr wie ihr Privileg.
+
+**GABRIEL**: Exakt. Sie beheben kein Problem; Sie **„kuratieren eine zukünftige Elite-Benutzerbasis“**.
+
+***
+
+### AKT II: DIE FRONT
+
+**SZENE**: CHERYLs engelhaftes Büroabteil in einem riesigen, erdrückenden himmlischen Callcenter. Sie starrt auf eine endlose Warteschlange von **„Gebets-Tickets“**.
+
+**(Ein Montage von verzweifelten Gebeten läuft ab.)**
+
+**CHERYL**: (Ins Mikrofon, geskriptet) Danke für Ihr Feedback. Wir können derzeit keine **funktionale Behebung** anbieten, haben aber Ihrem Konto die **„Innerer Frieden“-Funktion** gutgeschrieben. (Sie tippt.)
+
+**FRAGENDE STIMME**: Warum können Sie nicht einfach den Bug beheben? Warum?
+
+**CHERYL**: (Ihre Stimme schnappt sofort zurück ins Skript, mit einem leichten Zittern.) ...wir verstehen Ihre Situation, aber die Herausforderungen, die Sie erleben, sind... **um eines viel größeren Plans willen**. Danke für Ihren Anruf. (Sie legt auf und schließt das Ticket. Ein neues erscheint sofort.)
+
+***
+
+### AKT III: DAS KRISENMANAGEMENT-MEETING
+
+**SZENE**: Der Konferenzraum. Eine **„SCHWERWIEGENDER VORFALL“**-Warnung blinkt manisch auf.
+
+**GABRIEL**: ...ein hochprofilierter Prophet betete um Regen, und das System reagierte mit einem... überenthusiastischen Patch, der eine **verheerende Flut** auslöste.
+
+**DER INGENIEUR**: (Panisch) Ich wusste es! Sie werden mich vom „Schöpfer“ zum **„Legacy-Systems-Berater“** degradieren!
+
+**GABRIEL**: (Hebt eine beruhigende Hand) Dies ist keine technische Fehlfunktion. Es ist eine **„kommunikative Herausforderung“**.
+
+**GABRIEL**: (Sein Plan) Stufe Eins: **„Feedback Filtern“**. Alle Gebets-Tickets bezüglich der Flut werden von **„System-Bug“ auf „Benutzer-Fehlinterpretation“ umkategorisiert**. Stufe Zwei: **„Theologische Verschleierungsstrategie einsetzen“** (Interne: **„Unerklärbarkeits‘-Klausel anrufen“**). Stufe Drei: **„Den Bug als Feature umdeklarieren“**. Wir werden verkünden, dass die Flut ein **„absichtlich eingebetteter Glaubenstest“** war, um **„Hochtreue-Benutzer“** für das Himmel 2.0 Beta-Programm zu identifizieren.
+
+**DER INGENIEUR**: Ein... absichtlich eingebetteter... Test? Das war also nicht mein Code, der versagt hat, sondern ein Beweis für meine **Weitsicht**?
+
+**GABRIEL**: Sie haben eine **brillant ausgeführte Benutzer-Segmentierungs-Operation** durchgeführt.
+
+***
+
+### AKT IV: DIE ZUKUNFTSGERICHTETE AUSSAGE
+
+**SZENE**: Das Team arbeitet am Kommuniqeé.
+
+**GABRIEL**: ...die Formulierung lautet: „Diese göttliche Intervention wurde entwickelt, um die Resilienz der Gläubigen zu testen...“
+
+**DER INGENIEUR**: (fügt hinzu) Sagen Sie, es war **„...eine algorithmische Kalibrierung der spirituellen Resilienz.“**
+
+**GABRIEL**: Gut, der endgültige Text wird veröffentlicht. (Zum Ingenieur) Oh, und setzen Sie eine Feature-Vorschau-Pressekonferenz für **Himmel 2.0** an. Nennen wir es... **„Verbesserte Wasserdichtigkeit“**.
+
+**GABRIEL**: (Ein kaum wahrnehmbares Lächeln) Schließlich ist **die Wartung des Narrativs an sich eine ewige Aufgabe**.
+
+**(SCHLUSSEINSTELLUNG: CHERYLs Warteschlange ist mit Flut-Gebeten überschwemmt. Sie beginnt, ihre abgenutzten, geskripteten Antworten zu tippen.)**
 
 ## Anhang C: Wörterbuch
 ### SET Philosophisch-Kritisches Systemwörterbuch
