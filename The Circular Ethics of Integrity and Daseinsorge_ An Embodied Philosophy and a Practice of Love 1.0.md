@@ -1742,7 +1742,7 @@ This is what I have seen.
 
 Now, I ask you, what do you see?
 
-**The Department of Divine Maintenance** 
+## **The Department of Divine Maintenance** 
 
 **A One-Act Tragedy in Four Parts**
 
@@ -1896,7 +1896,7 @@ Now, I ask you, what do you see?
 
 *Self-Commentary: The entire structure is circular, not linear. The ending is a return to the status quo, perfectly mirroring the core concept of a system designed for ‘perpetual maintenance’, not perfection. The final shot reinforces the purpose of the entire bureaucratic machine—from the Engineer’s anxiety to Gabriel’s sophistry to Cheryl’s labour—which is simply to ensure that this flawed system can keep running forever. The promised liberation of ‘Heaven 2.0’ is the very tool that locks everyone into the eternal prison of System 1.0.*
 
-**DOCUMENTATION LEAK—FOR INTERNAL REVIEW ONLY**
+## **DOCUMENTATION LEAK—FOR INTERNAL REVIEW ONLY**
 
 Authority: \[REDACTED\]
 
