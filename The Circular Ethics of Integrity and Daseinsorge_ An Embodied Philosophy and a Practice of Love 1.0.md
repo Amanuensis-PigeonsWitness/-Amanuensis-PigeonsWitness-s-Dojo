@@ -1670,8 +1670,8 @@ Only by uniting the individual’s courage of Containment (the micro-ethic) with
 
 This is a path full of Resilience, for it does not promise a static perfection, but only the dynamic maintenance of one’s own integrity amidst perpetual conflict and challenge. This is the final meaning of the ‘Zen Path of *Daseinsorge*’: a path of cultivation, in a bug-filled Earth 1.0, that leads to the sovereignty of the self and to communal completion.
 
-My theory is not an eclecticism, but a radical ‘vital synthesis in philosophy’, guided by the spirit of Eastern practice. All its tools have been re-forged to serve the highest ethical imperative of humanity’s search for ‘*Kōken Chiai*’ in the midst of nothingness.
-
+## My theory is not an eclecticism, but a radical ‘vital synthesis in philosophy’, guided by the spirit of Eastern practice. All its tools have been re-forged to serve the highest ethical imperative of humanity’s search for ‘*Kōken Chiai*’ in the midst of nothingness.
+--------
 **Final Exercise: The Riddle of the Abbreviation SET**  
 **An Ethical Game Concerning ‘Love’**  
 **Epilogue: The Suspended Imperative and the Philosophy of *Zanshin***
