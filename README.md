@@ -4,11 +4,11 @@ Bienvenue au **dōjō numérique SET** (**L'Éthique circulaire du Souci existen
 
 
 # Note:
-**SET is not a Theory of Everything.
+SET is not a Theory of Everything.
 SET is a small generative method,
 a compact existential tool
 offered to anyone living with anxiety.
 
 It belongs not to its first scribe (APW),
 but to every human heart
-where an Unnamed Child is quietly waiting to be heard.**
+where an Unnamed Child is quietly waiting to be heard.
