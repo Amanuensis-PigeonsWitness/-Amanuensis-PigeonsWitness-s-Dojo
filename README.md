@@ -11,4 +11,4 @@ offered to anyone living with anxiety.
 
 It belongs not to its first scribe (APW),
 but to every human heart
-where an Unnamed Child is quietly waiting to be heard.
+where an Unnamed Child (a metaphorical locus for reflexive becoming) is quietly waiting to be heard.
